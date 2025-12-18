@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Food Allergy Detection</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <div class="loader" id="loader">
+        <div class="spinner"></div>
+        <p>Analyzing...</p>
+    </div>
+    <div class="container">
+        <h1>🍽️ Food Allergy Detection System</h1>
+        <p class="subtitle">
+            Upload food or ingredient images to identify possible allergens
+        </p>
+
+
+        <div class="card">
+            <h2>📷 Upload Food Image</h2>
+            <p class="hint">Example: biryani, dosa, paneer dish</p>
+            <label>Choose from Gallery</label>
+            <input type="file" id="foodFile" accept="image/*">
+            <label for="foodCamera" class="custom-button">📷 Capture Image</label>
+            <input type="file" id="foodCamera" accept="image/*" capture="environment" style="display:none;">
+
+            <div class="food-preview-container">
+                <img id="foodPreview" alt="Food Preview">
+                <button id="reloadFoodBtn" onclick="markWrongFood()">🔄</button>
+            </div>
+
+            <p id="foodName"></p>
+
+            <button onclick="detectFood()">
+                Detect Food
+            </button>
+
+            <button id="detectAllergenBtn" onclick="detectAllergens()" disabled>
+                Detect Allergens
+            </button>
+        </div>
+
+        <div class="card">
+            <h2>🧾 Upload Ingredients Image</h2>
+            <p class="hint">Example: food label, ingredient list</p>
+            <label>Choose from Gallery</label>
+            <input type="file" id="ingredientFile" accept="image/*">
+            <label for="ingredientCamera" class="custom-button">📷 Capture Image</label>
+            <input type="file" id="ingredientCamera" accept="image/*" capture="environment" style="display:none;">
+
+            <img id="ingredientPreview">
+
+            <button onclick="detectAller()">
+                Detect Allergens
+            </button>
+        </div>
+
+    
+        
+        <div class="result">
+            <h2>⚠️ Detected Allergens</h2>
+            <p id="result-text">No analysis yet</p>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

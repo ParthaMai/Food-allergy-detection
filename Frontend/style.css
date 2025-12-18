@@ -1,0 +1,232 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Segoe UI", Arial, sans-serif;
+}
+
+body {
+    min-height: 100vh;
+    background: linear-gradient(135deg, #f6d365, #fda085);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    width: 90%;
+    max-width: 900px;
+    background: rgba(255, 255, 255, 0.18);
+    backdrop-filter: blur(12px);
+    border-radius: 18px;
+    padding: 32px;
+    box-shadow: 0 12px 35px rgba(0,0,0,0.25);
+    color: #2c2c2c;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 8px;
+}
+
+.subtitle {
+    text-align: center;
+    margin-bottom: 28px;
+    color: #333;
+}
+
+.card {
+    background: rgba(255, 255, 255, 0.95);
+    padding: 22px;
+    border-radius: 14px;
+    margin-bottom: 22px;
+}
+
+.card h2 {
+    margin-bottom: 6px;
+}
+
+.hint {
+    font-size: 14px;
+    color: #666;
+    margin-bottom: 10px;
+}
+
+input[type="file"] {
+    width: 100%;
+    margin-bottom: 14px;
+}
+
+button {
+    width: 100%;
+    padding: 11px;
+    border: none;
+    border-radius: 10px;
+    background: #ff6b35;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+
+button:hover {
+    background: #e85d2f;
+}
+
+.result {
+    background: rgba(255, 255, 255, 0.97);
+    padding: 20px;
+    border-radius: 14px;
+    border-left: 6px solid #ff3b3b;
+}
+
+.result h2 {
+    margin-bottom: 10px;
+}
+.loader {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.6);
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    z-index: 999;
+    color: #fff;
+    font-size: 18px;
+}
+
+.spinner {
+    width: 50px;
+    height: 50px;
+    border: 5px solid #ddd;
+    border-top: 5px solid #ff6b35;
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+    margin-bottom: 12px;
+}
+
+.food-preview-container {
+    max-width: 100%;
+    border-radius: 10px;
+    display: block;
+}
+
+#foodPreview {
+    max-width: 100%;   
+    max-height: 250px;  
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: none;         
+    border-radius: 10px;   
+    object-fit: contain;  
+}
+
+
+#reloadFoodBtn {
+    display: none; /* hidden initially */
+    background: rgba(255, 255, 255, 0.8);
+    border: none;
+    border-radius: 50%;
+    padding: 5px 10px;
+    cursor: pointer;
+    font-size: 20px;
+    transition: background 0.2s ease;
+}
+
+#reloadFoodBtn:hover {
+    background: rgba(255, 255, 255, 1);
+}
+
+#ingredientPreview{
+    max-width: 100%;   
+    max-height: 250px;  
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: none;         
+    border-radius: 10px;   
+    object-fit: contain;  
+}
+
+
+@keyframes spin {
+    100% {
+        transform: rotate(360deg);
+    }
+}
+.custom-button {
+    display: inline-block;
+    padding: 10px 15px;
+    background: #817c7c; 
+    color: #fff;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+.custom-button:hover {
+    background: #555;
+}
+
+
+@media (max-width: 1000px) {
+
+    body {
+
+        padding: 12px;
+    }
+    .container {
+        width: 95%;
+        max-width: 350px;
+        padding: 12px;
+        border-radius: 12px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        transform: scale(2.5); /* 1.5 = 150%, 0.5 = 50% */
+    }
+
+
+
+    .card {
+        padding: 12px;
+        margin-bottom: 12px;
+    }
+
+    h1 {
+        font-size: 24px;
+    }
+
+    .subtitle {
+        font-size: 15px;
+        margin-bottom: 16px;
+    }
+
+    .card h2 {
+        font-size: 18px;
+    }
+
+    .hint {
+        font-size: 14px;
+        margin-bottom: 10px;
+    }
+
+    input[type="file"] {
+        font-size: 16px;
+        padding: 10px;
+    }
+
+    button, .custom-button {
+        font-size: 17px;
+        padding: 12px;
+    }
+
+    .result {
+        padding: 14px;
+    }
+
+    .result h2 {
+        font-size: 18px;
+    }
+}

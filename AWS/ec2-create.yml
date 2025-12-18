@@ -1,0 +1,8 @@
+Resources:
+  SimpleEC2Instance:
+    Type: "AWS::EC2::Instance"
+    Properties:
+      InstanceType: t3.micro
+      Tags:
+        - Key: Name
+          Value: MySimpleInstance
