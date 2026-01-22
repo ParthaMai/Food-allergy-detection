@@ -70,7 +70,7 @@ async function detectFood() {
     showLoader();
 
     try {
-        const res = await fetch("http://192.168.1.6:5000/analyze", {
+        const res = await fetch("http://192.168.1.8:5000/analyze", {
             method: "POST",
             body: formData
         });
@@ -125,7 +125,7 @@ async function detectAllergens() {
     showLoader();
 
     try {
-        const res = await fetch("http://192.168.1.6:5000/analyze", {
+        const res = await fetch("http://192.168.1.8:5000/analyze", {
             method: "POST",
             body: formData
         });
@@ -154,7 +154,7 @@ async function detectAller() {
     showLoader();
 
     try {
-        const res = await fetch("http://192.168.1.6:5000/Ingredients", {
+        const res = await fetch("http://192.168.1.8:5000/Ingredients", {
             method: "POST",
             body: formData
         });

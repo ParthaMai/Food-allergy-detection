@@ -10,20 +10,20 @@ from collections import defaultdict
 
 pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 
-
+# Load pre-trained BERT model and tokenizer
 model_name = "bert-base-uncased"
-
 tokenizer = BertTokenizer.from_pretrained(model_name)
 model = BertModel.from_pretrained(model_name)
 model.eval()   # inference mode
 
-
+# Extract text from an image using OCR
 def extract_text(image_path):
     img = Image.open(image_path)
     text = pytesseract.image_to_string(img)
     return normalize_text(text)
 
 
+# Normalize text by lowercasing and removing special characters
 def normalize_text(text):
     text = text.lower()
     text = re.sub(r"[^a-z0-9\s]", " ", text)
@@ -48,6 +48,7 @@ def normalize_text(text):
 #     "seeds": ["sesame", "poppy seeds"]
 # }
 
+# Load allergen keywords from CSV file
 def load_allergens(csv_path="allergens.csv"):
     allergens = defaultdict(list)
 
@@ -76,7 +77,8 @@ def get_embedding(text):
 
     return outputs.last_hidden_state.mean(dim=1)
 
-def analyze_allergens(text, similarity_threshold=0.65):
+# Analyze text to detect allergens using Exact keyword and semantic matching
+def analyze_allergens(text, similarity_threshold=0.60):
     if text is None: 
         text = ""
     detected = {}

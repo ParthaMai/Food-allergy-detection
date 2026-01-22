@@ -5,9 +5,8 @@ import torch
 
 
 
-
+# Load pre-trained CLIP model for image-text similarity
 model_name = "openai/clip-vit-base-patch32"
-
 model = CLIPModel.from_pretrained(model_name)
 processor = CLIPProcessor.from_pretrained(
     model_name,
@@ -19,6 +18,8 @@ model.eval()
 df = pd.read_csv("indian_food_ingredients.csv")
 FOOD_LABELS = df["Food_Name"].tolist()
 
+
+# Predict food name from an image using CLIP
 def predict_food(image_path, labels):
     """
     Predict food name using CLIP (image-text similarity)
