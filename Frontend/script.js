@@ -70,7 +70,7 @@ async function detectFood() {
     showLoader();
 
     try {
-        const res = await fetch("http://192.168.1.8:5000/analyze", {
+        const res = await fetch("http://192.168.1.14:5000/analyze", {
             method: "POST",
             body: formData
         });
@@ -125,7 +125,7 @@ async function detectAllergens() {
     showLoader();
 
     try {
-        const res = await fetch("http://192.168.1.8:5000/analyze", {
+        const res = await fetch("http://192.168.1.14:5000/analyze", {
             method: "POST",
             body: formData
         });
@@ -154,7 +154,7 @@ async function detectAller() {
     showLoader();
 
     try {
-        const res = await fetch("http://192.168.1.8:5000/Ingredients", {
+        const res = await fetch("http://192.168.1.14:5000/Ingredients", {
             method: "POST",
             body: formData
         });
@@ -198,18 +198,16 @@ function displayResult(data) {
         allergenBtn.disabled = false; 
     }
 
-    if (!data.allergens || Object.keys(data.allergens).length === 0) {
+     if (!data.allergens || data.allergens.length === 0) {
         html += `<span class="safe">✅ No allergens detected</span>`;
     } else {
         html += `<strong>⚠️ Detected Allergens:</strong><br><br>`;
-        for (const category in data.allergens) {
-            html += `
-                <div class="allergen-box">
-                    <strong>${category.toUpperCase()}:</strong>
-                    ${data.allergens[category].join(", ")}
-                </div>
-            `;
-        }
+
+        html += `
+            <div class="allergen-box">
+                ${data.allergens.join(", ")}
+            </div>
+        `;
     }
 
     resultBox.innerHTML = html;

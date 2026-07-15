@@ -1,0 +1,1060 @@
+Food_Name,Ingredients,peanut,almond,pistachio,cashew,milk,butter,cheese,paneer,ghee,egg,fish,prawn,moong dal,chana dal,tomato,banana,capsicum,mushroom,bitter gourd,mustard,chocolate,chicken,mutton
+achari aloo,"potato, mustard seeds, pickle spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+achari baingan,"eggplant, mustard seeds, pickle spices",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+achari bhindi,"okra, mustard seeds, pickle spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+achari gobhi,"cauliflower, mustard seeds, pickle spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+achari paneer,"paneer, pickle spices, yogurt, onion",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+achari paneer,"paneer, mustard seeds, pickle spices",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+ada pradhaman,"rice ada, ghee, jaggery, coconut milk",0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+akki payasa,"rice, ghee, milk, sugar",0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+almond pulao,"basmati rice, almond, saffron, ghee",0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+aloo paratha,"potato, whole wheat flour, butter, spices",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+aloo posto,"potato, mustard oil, poppy seeds",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+american chopsuey,"capsicum, noodles, vegetables, sauce",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+amritsari kulcha,"flour, potato, butter, onion",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+anda ghotala,"egg, butter, onion, tomato",0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+anda masala,"egg, onion, tomato, ginger",0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+anda pav,"egg, pav bread, onion, spices",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+aravana payasam,"rice, ghee, jaggery",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+atta halwa,"whole wheat flour, ghee, sugar",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+baby corn manchurian,"capsicum, baby corn, sauces",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+badam barfi,"almond, sugar, milk, ghee",0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+badam basundi,"milk, almond, sugar, saffron",0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+badam burfi,"almond, sugar, milk, ghee",0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+badam chikki,"almond, jaggery, ghee",0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+badam chocolate barfi,"almond, cocoa powder, milk, ghee",0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+badam coconut ladoo,"almond, coconut, milk, cardamom powder",0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+badam halwa,"almond, milk, sugar, ghee",0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+badam ice cream,"almond, milk, cream, sugar",0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+badam kalakand,"almond, milk, paneer, sugar",0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+badam katli,"almond, sugar, rose water, cardamom powder",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+badam kesari,"almond, semolina, sugar, ghee",0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+badam kheer,"almond, milk, sugar, saffron",0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+badam kulfi,"almond, milk, sugar, saffron",0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+badam ladoo,"almond, jaggery, ghee, cardamom powder",0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+badam makhana kheer,"almond, fox nuts (makhana), milk, sugar",0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+badam milk,"almond, milk, sugar, saffron",0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+badam modak,"almond, coconut, jaggery, cardamom powder",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+badam payasam,"almond, milk, sugar, ghee",0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+badam peda,"almond, milk, cardamom powder",0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+badam phirni,"almond, rice, milk, saffron",0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+badam rabri,"milk, almond, sugar, saffron",0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+badam sharbat,"almond, milk, sugar, rose syrup",0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+badam sheera,"almond, semolina, milk,  ghee",0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+badami aloo curry,"potatoes, almond, onion, tomato",0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+badami chicken,"chicken, almond, yogurt, onion",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+badami gosht,"mutton, lmonds, yogurt, onion",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+badami lassi,"yogurt, almond, sugar, cardamom powder",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+badami sewaiyan,"vermicelli, almond, milk, sugar",0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+badami vegetable curry,"mixed vegetables, almond, onion, tomato",0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+bafla,"wheat flour, butter, lentils, spices",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+balushahi,"flour, ghee, sugar syrup",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+banana appam,"banana, rice flour, jaggery, cardamom",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+banana avial,"banana, vegetables, coconut, yogurt",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+banana barfi,"banana, milk, sugar, ghee",0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+banana bhaji,"banana, gram flour, chili powder, oil",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+banana bonda,"banana, flour, sugar, cardamom",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+banana chaat,"banana, chaat masala, lemon juice, onion",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+banana chilla,"banana, gram flour, cardamom, sugar",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+banana chips,"banana, coconut oil, salt",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+banana curry,"banana, coconut, spices, curry leaves",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+banana cutlet,"banana, potato, breadcrumbs, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+banana dosa,"banana, rice flour, jaggery, cardamom",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+banana erissery,"banana, coconut, cumin, curry leaves",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+banana halwa,"banana, sugar, ghee, cardamom",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+banana idli,"banana, rice batter, jaggery",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+banana kesari,"banana, semolina, sugar, ghee",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+banana kheer,"banana, milk, sugar, cardamom",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+banana kootu,"banana, lentils, coconut, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+banana kozhukattai,"banana, rice flour, coconut, jaggery",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+banana ladoo,"banana, coconut, jaggery, ghee",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+banana malpua,"banana, flour, milk, sugar syrup",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+banana modak,"banana, coconut, jaggery, rice flour",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+banana olan,"banana, coconut milk, curry leaves",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+banana pachadi,"banana, yogurt, coconut, mustard seeds",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+banana pakora,"banana, gram flour, spices, oil",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+banana pancake,"banana, flour, milk, sugar",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+banana paratha,"banana, wheat flour, ghee, sugar",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+banana payasam,"banana, jaggery, coconut milk, cardamom",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+banana phirni,"banana, rice, milk, sugar",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+banana poori,"banana, wheat flour, sugar, cardamom",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+banana pulao,"banana, rice, nuts, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+banana puli curry,"banana, tamarind, jaggery, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+banana pulissery,"banana, yogurt, coconut, cumin",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+banana puttu,"banana, rice flour, coconut",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+banana rabri,"banana, milk, sugar, cardamom",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+banana rasam,"banana, tamarind, tomato, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+banana rice,"banana, rice, ghee, cardamom",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+banana sambar,"banana, lentils, tamarind, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+banana sandesh,"banana, chhena, sugar, cardamom",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+banana sheera,"banana, semolina, ghee, sugar",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+banana shrikhand,"banana, yogurt, sugar, cardamom",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+banana sundal,"banana, coconut, mustard seeds, curry leaves",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+banana theeyal,"banana, roasted coconut, tamarind",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+banana thoran,"banana, coconut, mustard seeds, curry leaves",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+banana tikki,"banana, potato, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+banana upma,"banana, semolina, curry leaves, mustard seeds",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+banana uttapam,"banana, rice batter, jaggery, cardamom",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+banana vada,"banana, rice flour, jaggery",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+bandhakopir torkari,"cabbage, mustard seeds, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+basundi,"milk, sugar, cardamom powder, saffron",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+batata bhaji,"potato, peanut, curry leaves, green chilies",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+beans peanut poriyal,"french beans, peanut, coconut, green chilies",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+begun bhaja,"eggplant, mustard oil, turmeric",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+bengal gram sundal,"chana dal, coconut, curry leaves, mustard seeds",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+besan ladoo,"gram flour, ghee, sugar, cardamom powder",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+besara,"mustard, mixed vegetables, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+bhapa chingri,"prawn, mustard, coconut, green chili",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+bhapa ilish,"fish, mustard paste, coconut, green chili",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+bhapa ilish,"hilsa fish, mustard, yogurt, green chili",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+bharli vangi,"brinjal, peanut, coconut, sesame seeds",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bharwa karela,"bitter gourd, onion, fennel, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+bhel puri,"puffed rice, peanut, onion, mint chutney",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bhetki paturi,"bhetki fish, mustard, coconut, banana leaf",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0
+bhutta,"corn, butter, lemon juice, salt",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bisi bele bath,"rice, toor dal,  peanut,  ghee",1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bisi bele bath,"rice, lentils, vegetables, ghee",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+boiled egg chaat,"egg, onion, tomato, lemon juice",0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+bombay sandwich,"capsicum, potato, chutney, bread",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+boondi ladoo,"gram flour, ghee, sugar syrup",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+boti kebab,"mutton, yogurt, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+butter appam,"rice flour, butter, coconut milk",0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+butter besan ladoo,"gram flour, butter, sugar",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+butter chicken,"chicken, butter, milk, tomato",0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+butter chicken,"chicken, butter, tomato, cream, spices",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+butter chicken biryani,"rice, chicken, butter, spices",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+butter chicken pulao,"rice, chicken, butter, spices",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+butter coconut barfi,"coconut, butter, sugar, milk",0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+butter corn masala,"corn, butter, cream, spices",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+butter dosa,"rice batter, butter, potato, spices",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+butter egg curry,"egg, butter, tomato, spices",0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+butter fish curry,"fish, butter, tomato, spices",0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+butter garlic naan,"flour, butter,  yogurt, yeast",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+butter halwa,"semolina, butter, sugar, cardamom powder",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+butter idli,"idli, butter, curry leaves, spices",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+butter jalebi,"flour, butter, sugar syrup",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+butter keema,"minced meat, butter, onion, spices",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+butter kesari,"semolina, butter, sugar, saffron",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+butter malpua,"flour, milk, butter, sugar syrup",0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+butter masala dosa,"rice batter, butter, potato, spices",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+butter modak,"rice flour, coconut, butter, jaggery",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+butter mushroom,"mushroom, butter, tomato, spices",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+butter mysore pak,"gram flour, butter, sugar",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+butter naan,"flour, butter, yogurt, yeast",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+butter paratha,"whole wheat flour, butter, salt",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+butter pinni,"wheat flour, butter, sugar, dry fruits",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+butter pongal,"rice, lentils, butter, pepper",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+butter prawn masala,"prawn, butter, garlic, spices",0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+butter roti,"whole wheat flour, butter, salt",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+butter sandesh,"chhena, butter, sugar",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+butter sevai,"vermicelli, butter, vegetables, spices",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+butter sheera,"semolina, butter, sugar, cardamom powder",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+butter sweet corn soup,"corn, butter, milk, pepper",0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+butter upma,"semolina, butter, curry leaves, vegetables",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+butter uttapam,"rice batter, butter, onion, tomato",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+cabbage peanut poriyal,"cabbage, peanut, coconut, green chilies",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+carrot peanut salad,"carrot, peanut, lemon juice, coriander leaves",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+chaas,"yogurt, milk, cumin powder, salt",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+cham cham,"chhena, milk, sugar syrup",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+chana dal appe,"chana dal, curry leaves, mustard seeds",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+chana dal badi curry,"chana dal, tomato, onion, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+chana dal barfi,"chana dal, sugar, ghee, milk",0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+chana dal bhajiya,"chana dal, onion, chili, oil",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+chana dal biryani,"chana dal, rice, spices, onion",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+chana dal chaat,"chana dal, onion, tomato, lemon juice",0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+chana dal chilla,"chana dal, ginger, green chili, cumin",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+chana dal curry,"chana dal, onion, tomato, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+chana dal cutlet,"chana dal, potato, breadcrumbs, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+chana dal dhokla,"chana dal, yogurt, ginger, green chili",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+chana dal fry,"chana dal, onion, tomato, ghee",0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+chana dal ghugni,"chana dal, onion, tomato, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+chana dal halwa,"chana dal, ghee, sugar, milk",0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+chana dal handvo,"chana dal, rice, yogurt, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+chana dal idli,"chana dal, rice, salt",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+chana dal kachori,"chana dal, flour, spices, oil",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+chana dal khichdi,"chana dal, rice, turmeric, ghee",0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+chana dal kofta,"chana dal, onion, spices, tomato gravy",0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+chana dal kosambari,"chana dal, cucumber, coconut, coriander",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+chana dal ladoo,"chana dal, ghee, sugar, cardamom",0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+chana dal muthia,"chana dal, wheat flour, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+chana dal nimona,"chana dal, peas, spices, ghee",0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+chana dal pachadi,"chana dal, coconut, yogurt, curry leaves",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+chana dal pakora,"chana dal, onion, spices, oil",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+chana dal paratha,"chana dal, wheat flour, spices, ghee",0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+chana dal payasam,"chana dal, jaggery, milk, cardamom",0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+chana dal pithla,"chana dal, garlic, chili, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+chana dal poori,"chana dal, wheat flour, spices, oil",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+chana dal pulao,"chana dal, rice, cumin, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+chana dal rasam,"chana dal, tomato, tamarind, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+chana dal rice,"chana dal, rice, cumin, turmeric",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+chana dal sambar,"chana dal, vegetables, tamarind, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+chana dal sheera,"chana dal, ghee, sugar, cardamom",0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+chana dal soup,"chana dal, carrot, cumin, pepper",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+chana dal sundal,"chana dal, coconut, curry leaves, mustard seeds",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+chana dal tadka,"chana dal, onion, tomato, garlic",0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+chana dal thepla,"chana dal, wheat flour, fenugreek",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+chana dal tikki,"chana dal, potato, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+chana dal upma,"chana dal, semolina, vegetables",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+chana dal usal,"chana dal, onion, coconut, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+chana dal uttapam,"chana dal, onion, tomato, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+chana dal vada,"chana dal, onion, green chili, cumin",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+cheese bhel,"puffed rice, cheese, chutney, sev",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+cheese bhurji,"cheese, onion, tomato, spices",0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+cheese biryani,"rice, cheese, spices, vegetables",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+cheese bread roll,"bread, cheese, potato, spices",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+cheese butter masala,"cheese, butter, tomato, cream",0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+cheese chilla,"gram flour, cheese, onion",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+cheese corn balls,"corn, cheese, potato, spices",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+cheese corn chaat,"corn, cheese, lemon juice, spices",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+cheese corn curry,"corn, cheese, cream, spices",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+cheese croquette,"cheese, potato, breadcrumbs",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+cheese curry,"cheese, tomato, onion, spices",0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+cheese cutlet,"potato, cheese, breadcrumbs, spices",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+cheese dhokla,"gram flour, cheese, yogurt",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+cheese dosa,"rice batter, cheese, potato, spices",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+cheese frankie,"roti, cheese, vegetables, sauce",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+cheese garlic naan,"flour, cheese, garlic, butter",0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+cheese handvo,"rice, lentils, cheese, yogurt",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+cheese idli,"idli, cheese, spices",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+cheese jalapeno balls,"cheese, potato, jalapeno",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+cheese kathi roll,"paratha, cheese, vegetables, sauce",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+cheese kofta,"cheese, potato, cream, spices",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+cheese korma,"cheese, cream, onion, spices",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+cheese kulcha,"flour, cheese, butter, onion",0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+cheese maggi,"noodles, cheese, vegetables, spices",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+cheese makhani,"cheese, butter, tomato, cream",0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+cheese malai curry,"cheese, cream, butter, spices",0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+cheese manchurian,"cheese, corn flour, sauces",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+cheese masala dosa,"rice batter, cheese, potato, spices",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+cheese momos,"flour, cheese, vegetables",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+cheese naan,"flour, cheese, yogurt, butter",0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+cheese nachos chaat,"nachos, cheese, onion, tomato",0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+cheese omelette,"egg, cheese, butter, pepper",0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+cheese pakora,"cheese, gram flour, spices",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+cheese paratha,"whole wheat flour, cheese, butter, spices",0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+cheese pav bhaji,"mixed vegetables, cheese, pav bread, spices",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+cheese pizza dosa,"rice batter, cheese, vegetables",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+cheese pulao,"rice, cheese, vegetables, spices",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+cheese sandwich,"bread, cheese, butter, vegetables",0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+cheese sev puri,"puri, cheese, chutney, sev",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+cheese shami kebab,"cheese, lentils, spices",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+cheese spinach curry,"spinach, cheese, cream, spices",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+cheese spring roll,"flour wrapper, cheese, vegetables",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+cheese stuffed capsicum,"capsicum, cheese, vegetables",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+cheese stuffed mushroom,"mushroom, cheese, herbs",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+cheese stuffed tomato,"tomato, cheese, herbs",0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+cheese thepla,"whole wheat flour, cheese, fenugreek",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+cheese tikka,"cheese, yogurt, spices",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+cheese toast,"bread, cheese, butter",0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+cheese upma,"semolina, cheese, vegetables",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+cheese uttapam,"rice batter, cheese, onion, tomato",0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+cheese vada pav,"potato, cheese, pav bread, spices",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+chhanar dalna,"cottage cheese, mustard oil, spices",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+chicken 65,"chicken, curry leaves, chili, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+chicken bhuna,"chicken, onion, tomato, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+chicken biryani,"chicken, rice, onion, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+chicken cafreal,"chicken, coriander, green chili, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+chicken chaap,"chicken, yogurt, spices, ghee",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+chicken changezi,"chicken, tomato, cream, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+chicken chettinad,"chicken, coconut, pepper, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+chicken chilli,"chicken, capsicum, onion, sauces",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0
+chicken chop,"chicken, potato, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+chicken clear soup,"chicken, pepper, herbs",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+chicken curry,"chicken, onion, tomato, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+chicken cutlet,"chicken, potato, breadcrumbs",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+chicken dak bungalow,"chicken, potato, onion, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+chicken do pyaza,"chicken, onion, tomato, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+chicken frankie,"chicken, roti, onion, sauce",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+chicken fried rice,"chicken, capsicum, rice, soy sauce",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0
+chicken fried rice,"chicken, rice, vegetables, soy sauce",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+chicken ghee roast,"chicken, ghee, chili, spices",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+chicken hakka noodles,"chicken, capsicum, noodles, soy sauce",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0
+chicken hakka noodles,"chicken, noodles, vegetables, soy sauce",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+chicken hariyali kebab,"chicken, mint, coriander, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+chicken ishtu,"chicken, coconut milk, potato",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+chicken jalfrezi,"chicken, capsicum, onion, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0
+chicken kadai,"chicken, capsicum, onion, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0
+chicken kathi roll,"chicken, paratha, onion, sauce",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+chicken keema,"chicken, onion, tomato, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+chicken kheema pav,"chicken, onion, spices, pav",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+chicken korma,"chicken, almond, yogurt, onion",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+chicken korma,"chicken, yogurt, milk, onion",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+chicken korma,"chicken, yogurt, onion, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+chicken kosha,"chicken, onion, tomato, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+chicken malai tikka,"chicken, cream, yogurt, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+chicken manchurian,"chicken, capsicum, sauces, onion",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0
+chicken manchurian,"chicken, corn flour, sauces",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+chicken momos,"chicken, flour, onion, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+chicken nihari,"chicken, onion, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+chicken pakora,"chicken, gram flour, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+chicken pepper fry,"chicken, black pepper, onion, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+chicken pulao,"chicken, rice, onion, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+chicken qorma,"chicken, yogurt, onion, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+chicken reshmi kebab,"chicken, cream, cheese, spices",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+chicken rezala,"chicken, yogurt, cashew, spices",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+chicken roast,"chicken, onion, tomato, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+chicken roll,"chicken, paratha, onion, sauce",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+chicken seekh kebab,"chicken, spices, herbs",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+chicken shashlik,"chicken, capsicum, onion, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0
+chicken shorba,"chicken, coriander, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+chicken stew,"chicken, coconut milk, potato, spices",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+chicken sukka,"chicken, coconut, onion, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+chicken tikka,"chicken, yogurt, spices, lemon",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+chicken tikka masala,"chicken, yogurt, tomato, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+chicken varuval,"chicken, curry leaves, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+chicken vindaloo,"chicken, vinegar, chili, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+chicken xacuti,"chicken, coconut, chili, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+chikki,"peanut, jaggery, ghee",1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+chinese bhel,"capsicum, noodles, cabbage, sauces",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+chingri paturi,"prawn, mustard, coconut, banana leaf",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0
+chingudi besara,"prawn, mustard, spices",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+chocolate barfi,"chocolate, milk, sugar, ghee",0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+chocolate brownie,"chocolate, flour, butter, sugar",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+chocolate burfi roll,"chocolate, khoya, sugar",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+chocolate cake,"chocolate, flour, milk, sugar",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+chocolate cookie,"chocolate, flour, butter, sugar",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+chocolate donut,"chocolate, flour, milk, sugar",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+chocolate falooda,"chocolate, milk, vermicelli, basil seeds",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+chocolate fudge,"chocolate, milk, butter, sugar",0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+chocolate gujiya,"chocolate, khoya, flour",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+chocolate halwa,"chocolate, semolina, sugar, ghee",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+chocolate ice cream,"chocolate, milk, cream, sugar",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+chocolate kheer,"chocolate, milk, rice, sugar",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+chocolate kulfi,"chocolate, milk, sugar",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+chocolate ladoo,"chocolate, milk powder, ghee",0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+chocolate milkshake,"chocolate, milk, sugar",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+chocolate modak,"chocolate, coconut, jaggery",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+chocolate mousse,"chocolate, cream, sugar",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+chocolate muffin,"chocolate, flour, milk, sugar",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+chocolate pancake,"chocolate, flour, milk, sugar",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+chocolate pastry,"chocolate, flour, cream, sugar",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+chocolate payasam,"chocolate, milk, vermicelli, sugar",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+chocolate peda,"chocolate, khoya, sugar",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+chocolate phirni,"chocolate, milk, rice, sugar",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+chocolate rabri,"chocolate, milk, sugar",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+chocolate sandesh,"chocolate, chhena, sugar",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+chocolate sandwich,"chocolate, bread, butter",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+chocolate shrikhand,"chocolate, yogurt, sugar",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+chocolate swiss roll,"chocolate, flour, cream, sugar",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+chocolate tart,"chocolate, flour, butter, sugar",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+chocolate truffle,"chocolate, cream, cocoa powder",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+cholar dal,"chana dal, mustard oil, coconut",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0
+chorchori,"mustard, mixed vegetables, green chili",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+churma,"wheat flour, ghee, jaggery",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+corn capsicum curry,"capsicum, corn, onion, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+corn chaat,"corn, butter, lemon juice, spices",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+corn cheese balls,"capsicum, corn, cheese, spices",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+cream of tomato soup,"tomato, milk, cream, butter",0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+cucumber peanut salad,"cucumber, peanut, coriander leaves, lemon juice",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+dal baati churma,"wheat flour, ghee, lentils, jaggery",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+dal bati,"wheat flour, butter, lentils, spices",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+dal dhokli,"moong dal, wheat flour, spices, ghee",0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+dal dhokli,"chana dal, wheat flour, spices, ghee",0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+dal makhani,"black lentils, butter, milk, tomato",0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+dhokar dalna,"lentil cakes, mustard oil, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+doi maach,"fish, yogurt, onion, spices",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+doi maach,"fish, mustard, yogurt, spices",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+doodh puli,"milk, rice flour, coconut, sugar",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+doodhpak,"milk, rice,  saffron, cardamom powder",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+double ka meetha,"bread, almond, milk, ghee",0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+dry fruit chikki,"peanut, almonds, cashew, ghee",1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+dry fruit halwa,"almond, cashew, raisins,  ghee",0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+dry fruit kheer,"almond, cashew, raisins, milk",0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+dry fruit ladoo,"almond, cashew, dates, ghee",0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+egg 65,"egg, curry leaves, spices, yogurt",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+egg appam,"egg, rice batter, coconut milk",0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+egg bharta,"egg, onion, tomato, spices",0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+egg bhurji,"egg, onion, tomato, green chili",0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+egg biryani,"egg, rice, onion, yogurt",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+egg burger,"egg, bun, onion, tomato",0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+egg chop,"egg, potato, spices, breadcrumbs",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+egg chowmein,"egg, noodles, vegetables, soy sauce",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+egg coconut curry,"egg, coconut milk, onion, spices",0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+egg curry,"egg, onion, tomato, oil",0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+egg cutlet,"egg, potato, breadcrumbs, spices",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+egg devil,"egg, minced meat, potato, spices",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+egg do pyaza,"egg, onion, tomato, spices, oil",0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+egg dosa,"egg, rice batter, spices",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+egg frankie,"egg, roti, vegetables, sauce",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+egg fried rice,"egg, rice, vegetables, soy sauce",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+egg fried rice,"egg, capsicum, rice, vegetables",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+egg hakka noodles,"egg, noodles, vegetables, soy sauce",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+egg hakka noodles,"egg, capsicum, noodles, vegetables",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+egg jhal fry,"egg, onion, tomato, green chili",0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+egg kathi roll,"egg, paratha, onion, sauce",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+egg keema,"egg, minced meat, onion, spices",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+egg korma,"egg, yogurt, onion, oil",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+egg malabar curry,"egg, coconut milk, spices",0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+egg malai curry,"egg, cream, onion, spices",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+egg manchurian,"egg, corn flour, sauces",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+egg momos,"egg, flour, vegetables, spices",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+egg mughlai paratha,"egg, flour, onion, spices",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+egg pakora,"egg, gram flour, spices, oil",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+egg pepper fry,"egg, black pepper, onion, spices",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+egg pulao,"egg, rice, onion, spices",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+egg roast,"egg, onion, tomato, curry leaves",0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+egg roll,"egg, paratha, onion, sauce",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+egg sandwich,"egg, bread, butter, vegetables",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+egg stew,"egg, coconut milk, potato, spices",0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+egg sukka,"egg, coconut, onion, spices",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+egg tikka,"egg, yogurt, spices, oil",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+egg toast,"egg, bread, butter, pepper",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+egg uttapam,"egg, rice batter, onion, tomato",0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+egg vindaloo,"egg, vinegar, chili, spices",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+egg xacuti,"egg, coconut, chili, spices",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+enchorer dalna,"jackfruit, mustard oil, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+fish 65,"fish, curry leaves, spices, yogurt",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+fish bhapa,"fish, mustard paste, coconut, chili",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+fish bhuna,"fish, onion, tomato, spices",0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+fish biryani,"fish, rice, onion,  yogurt",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+fish caldine,"fish, coconut milk, turmeric, spices",0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+fish chettinad,"fish, coconut, pepper, spices",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+fish chop,"fish, potato, spices, breadcrumbs",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+fish chorchori,"fish, vegetables, mustard oil",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+fish chowmein,"fish, noodles, vegetables, sauces",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+fish chukka,"fish, onion, chili, spices",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+fish curry,"fish, onion, tomato, oil",0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+fish cutlet,"fish, potato, breadcrumbs, spices",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+fish fried rice,"fish, rice, vegetables, soy sauce",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+fish gassi,"fish, coconut, tamarind, spices",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+fish hakka noodles,"fish, noodles, vegetables, soy sauce",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+fish jhal,"fish, mustard paste, chili",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+fish kebab,"fish, yogurt, spices, oil",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+fish keema,"fish, onion, spices, herbs",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+fish korma,"fish, yogurt, onion, spices",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+fish kosha,"fish, onion, tomato, spices",0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+fish manchurian,"fish, corn flour, sauces",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+fish manchurian,"fish, capsicum, sauces, onion",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+fish masala,"fish, onion, tomato, spices",0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+fish moilee,"fish, coconut milk, curry leaves",0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+fish momos,"fish, flour, vegetables",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+fish pakora,"fish, gram flour, spices, oil",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+fish paturi,"fish, mustard paste, banana leaf",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0
+fish pepper fry,"fish, black pepper, onion, spices",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+fish pulao,"fish, rice, onion, spices",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+fish pulimunchi,"fish, tamarind, chili, spices",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+fish roast,"fish, onion, tomato, spices",0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+fish roll,"fish, paratha, onion, sauce",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+fish saag,"fish, spinach, onion, spices",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+fish sandwich,"fish, bread, butter, vegetables",0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+fish spring roll,"fish, flour wrapper, vegetables",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+fish stew,"fish, coconut milk, potato, spices",0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+fish stuffed paratha,"fish, wheat flour, spices",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+fish sukka,"fish, coconut, onion, spices",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+fish theeyal,"fish, roasted coconut, tamarind",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+fish thokku,"fish, onion, tomato, spices",0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+fish tikka,"fish, yogurt, spices, lemon juice",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+fish ularthiyathu,"fish, coconut slices, spices",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+fish varuval,"fish, curry leaves, chili, spices",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+fish vindaloo,"fish, vinegar, chili, spices",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+fish xacuti,"fish, coconut, chili, spices",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+french toast,"egg, bread, milk, sugar",0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+fried peanut chaat,"peanut, onion, tomato, green chilies",1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+fruit custard,"milk, custard powder, fruits, sugar",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gajar ka halwa,"carrot, milk, sugar, ghee",0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+galouti kebab,"mutton, spices, ghee",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+ghevar,"flour, ghee, sugar syrup",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ghugni,"yellow peas, mustard oil, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+gobi manchurian,"cauliflower, capsicum, sauces",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+gobi paratha,"cauliflower, whole wheat flour, butter, spices",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+groundnut chutney,"peanut, fresh coconut,  green chilies, mustard seeds",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+groundnut halwa,"peanut, milk, sugar, ghee",1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+groundnut rice,"cooked rice, peanut, dried red chilies, asafoetida",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gujiya,"flour, ghee, khoya, sugar",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+gulab jamun,"khoya, flour, sugar syrup, milk",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+hesaru bele kosambari,"moong dal, cucumber, coconut, coriander",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+hesaru bele payasa,"moong dal, jaggery, coconut milk, cardamom",0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+holige,"lentils, ghee, jaggery, flour",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+holige,"chana dal, jaggery, flour, ghee",0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+ilish paturi,"fish, mustard paste, banana leaf, spices",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0
+indori poha,"flattened rice, peanut, sev, fennel seeds",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+jhal muri,"puffed rice, peanut, onion, cucumber",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+jhinge posto,"ridge gourd, mustard oil, poppy seeds",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+kada prasad,"whole wheat flour, ghee, sugar",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+kadai paneer,"paneer, onion, capsicum, milk",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+kadai paneer,"paneer, onion, capsicum, tomato",0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+kakarakaya fry,"bitter gourd, onion, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+kakarakaya kura,"bitter gourd, onion, tomato, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+kakarakaya pulusu,"bitter gourd, tamarind, jaggery, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+kakarakaya vepudu,"bitter gourd, onion, chili, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+kalakand,"milk, paneer, sugar, cardamom powder",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+kalakki,"egg, pepper, butter, spices",0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+kanda poha,"flattened rice, peanut, onion, lemon juice",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+karanji,"flour, ghee, coconut, sugar",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+karela besan sabzi,"bitter gourd, gram flour, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+karela bhaji,"bitter gourd, onion, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+karela chips,"bitter gourd, oil, salt",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+karela chutney,"bitter gourd, tamarind, chili",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+karela curry,"bitter gourd, onion, tomato, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+karela fry,"bitter gourd, onion, turmeric, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+karela masala,"bitter gourd, tomato, onion, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+karela nu shaak,"bitter gourd, jaggery, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+karela onion fry,"bitter gourd, onion, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+karela pachadi,"bitter gourd, yogurt, coconut",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+karela pakora,"bitter gourd, gram flour, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+karela pickle,"bitter gourd, mustard oil, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+karela pitla,"bitter gourd, gram flour, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+karela poriyal,"bitter gourd, coconut, mustard seeds",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+karela sabzi,"bitter gourd, onion, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+karela thepla,"bitter gourd, wheat flour, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+karela thoran,"bitter gourd, coconut, curry leaves",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+kashmiri pulao,"basmati rice, almond, cashew, ghee",0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+kasundi fish fry,"fish, mustard, breadcrumbs, spices",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+keema kaleji,"mutton, liver, onion, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+kesar pista kulfi,"milk, sugar, saffron, pistachio",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+kesari bath,"semolina, ghee, sugar, saffron",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+khaja,"flour, ghee, sugar syrup",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+khara pongal,"rice, moong dal, ghee, cumin",0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+khara pongal,"moong dal, rice, pepper, ghee",0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+kharoli chicken,"chicken, mustard oil, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+kheer,"rice, milk, sugar, cardamom powder",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+khoya barfi,"khoya, milk, ghee, cardamom powder",0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+kolkata chicken biryani,"chicken, rice, potato, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+kolkata mutton biryani,"mutton, rice, potato, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+koshimbir,"cucumber, peanut, yogurt, coriander leaves",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+kulfi,"milk, sugar, cardamom powder, saffron",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+kumro chhokka,"pumpkin, mustard seeds, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+labra,"mustard, mixed vegetables, panch phoron",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+lachha paratha,"whole wheat flour, butter, salt",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+lapsi,"broken wheat, ghee, jaggery",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+lassi,"yogurt, milk, cardamom powder",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+lau ghonto,"bottle gourd, mustard oil, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+lemon rice with peanuts,"rice, peanut, lemon juice, curry leaves",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+lucknowi mutton biryani,"mutton, rice, saffron, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+machha besara,"fish, mustard, vegetables, spices",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+machher jhol,"fish, potato, tomato, mustard oil",0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0
+machher kalia,"fish, onion, tomato, yogurt",0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+magaj,"gram flour, ghee, sugar",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+makha sandesh,"chhena, ghee, sugar",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+makki di roti with white butter,"maize flour, butter, salt, milk",0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+makki ki roti,"maize flour, butter, salt",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+malabar chicken biryani,"chicken, rice, spices, ghee",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+malabar mutton biryani,"mutton, rice, spices, ghee",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+malai kofta,"paneer, potato, almond,  tomato gravy",0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+malai kofta,"paneer, potato, milk, tomato gravy",0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+malai paneer,"paneer, cream, butter, milk.",0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+malpua,"flour, milk, ghee, sugar syrup",0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+mango lassi,"mango, yogurt, sugar, milk",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+masala avalakki,"flattened rice, peanut,  green chilies, turmeric powder",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+masala omelette,"egg, onion, green chili, spices",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+masala pav,"pav bread, butter, onion, tomato",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+masala peanuts,"peanut, gram flour, rice flour, red chili powder",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+masala uttapam,"capsicum, rice batter, onion, tomato",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+masala vada,"chana dal, onion, curry leaves, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+masor tenga,"fish, mustard oil, tomato",0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0
+matar paneer,"paneer, peas, tomato, milk",0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+matar paneer,"paneer, peas, tomato, onion",0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+mawa kachori,"khoya, flour, milk, dry fruits",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+methi chaman,"paneer, fenugreek leaves, butter, spices",0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+mihidana,"gram flour, ghee, sugar syrup",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+milk cake,"milk, sugar, ghee",0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+mishti doi,"milk, sugar, yogurt culture",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+mixed vegetable curry,"capsicum, carrot, beans, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+mochar ghonto,"banana blossom, mustard oil, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0
+modak,"rice flour, ghee, coconut, jaggery",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+mohanthal,"milk, gram flour, sugar, ghee",0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+mohanthal,"gram flour, ghee, sugar",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+moong dal appe,"moong dal, curry leaves, mustard seeds",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+moong dal badi curry,"moong dal, tomato, onion, spices",0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+moong dal barfi,"moong dal, sugar, ghee, milk",0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+moong dal bhajiya,"moong dal, onion, chili, oil",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+moong dal biryani,"moong dal, rice, spices, onion",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+moong dal chaat,"moong dal, onion, tomato, lemon juice",0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+moong dal chilla,"moong dal, ginger, green chili, cumin",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+moong dal curry,"moong dal, onion, tomato, spices",0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+moong dal cutlet,"moong dal, potato, breadcrumbs, spices",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+moong dal dhokla,"moong dal, yogurt, ginger, green chili",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+moong dal fry,"moong dal, onion, tomato, ghee",0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+moong dal halwa,"moong dal, ghee, sugar, milk",0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+moong dal halwa,"moong dal, ghee, sugar, milk",0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+moong dal handvo,"moong dal, rice, yogurt, spices",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+moong dal idli,"moong dal, rice, salt",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+moong dal kachori,"moong dal, flour, spices, oil",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+moong dal khaman,"moong dal, yogurt, ginger, green chili",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+moong dal khichdi,"moong dal, rice, turmeric, ghee",0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+moong dal kofta,"moong dal, onion, spices, tomato gravy",0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+moong dal kosambari,"moong dal, cucumber, coconut, coriander",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+moong dal laddu,"moong dal, ghee, sugar, cardamom",0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+moong dal ladoo,"moong dal, ghee, sugar, cardamom",0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+moong dal muthia,"moong dal, wheat flour, spices",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+moong dal nimona,"moong dal, peas, spices, ghee",0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+moong dal pachadi,"moong dal, coconut, yogurt, curry leaves",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+moong dal pakora,"moong dal, onion, spices, oil",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+moong dal paratha,"moong dal, wheat flour, spices, ghee",0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+moong dal payasam,"moong dal, jaggery, coconut milk, cardamom",0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+moong dal pithla,"moong dal, garlic, chili, spices",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+moong dal poori,"moong dal, wheat flour, spices, oil",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+moong dal pulao,"moong dal, rice, cumin, spices",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+moong dal rasam,"moong dal, tomato, tamarind, spices",0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+moong dal rice,"moong dal, rice, cumin, turmeric",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+moong dal sambar,"moong dal, vegetables, tamarind, spices",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+moong dal sheera,"moong dal, ghee, sugar, cardamom",0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+moong dal soup,"moong dal, carrot, cumin, pepper",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+moong dal sundal,"moong dal, coconut, curry leaves, mustard seeds",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+moong dal tadka,"moong dal, onion, tomato, cumin",0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+moong dal thepla,"moong dal, wheat flour, fenugreek",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+moong dal tikki,"moong dal, potato, spices",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+moong dal upma,"moong dal, semolina, vegetables",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+moong dal usal,"moong dal, onion, coconut, spices",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+moong dal vada,"moong dal, onion, green chili, cumin",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+motichoor ladoo,"gram flour, ghee, sugar syrup",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+mughlai vegetable curry,"vegetables, almond, yogurt, cream",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+murgh badami,"chicken, almond, cream, onion",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+murgh makhani,"chicken, butter, milk, tomato",0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+mushroom bhuna,"mushroom, onion, tomato, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+mushroom biryani,"mushroom, rice, spices, onion",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+mushroom chaat,"mushroom, onion, lemon juice, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+mushroom chettinad,"mushroom, coconut, pepper, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+mushroom chilli,"mushroom, capsicum, onion, sauces",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+mushroom coconut curry,"mushroom, coconut milk, spices",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+mushroom cutlet,"mushroom, potato, breadcrumbs, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+mushroom dhokla,"mushroom, gram flour, yogurt",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+mushroom do pyaza,"mushroom, onion, butter, spices",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+mushroom do pyaza,"mushroom, onion, tomato, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+mushroom dosa,"mushroom, rice batter, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+mushroom erissery,"mushroom, coconut, cumin, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+mushroom frankie,"mushroom, roti, onion, sauce",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+mushroom fried rice,"capsicum, mushroom, rice, soy sauce",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+mushroom ghee roast,"mushroom, ghee, red chili, spices",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+mushroom ghugni,"mushroom, yellow peas, onion, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+mushroom gojju,"mushroom, tamarind, jaggery, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+mushroom handvo,"mushroom, rice, lentils, yogurt",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+mushroom jalfrezi,"capsicum, mushroom, onion, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+mushroom jhal,"mushroom, mustard paste, green chili",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+mushroom kebab,"mushroom, spices, herbs, onion",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+mushroom kofta,"mushroom, gram flour, spices, gravy",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+mushroom korma,"mushroom, cream, onion, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+mushroom kurma,"mushroom, coconut, spices, onion",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+mushroom malai curry,"mushroom, cream, onion, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+mushroom matar,"mushroom, peas, onion, tomato",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+mushroom momos,"mushroom, flour, vegetables",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+mushroom muthia,"mushroom, wheat flour, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+mushroom nilgiri curry,"mushroom, mint, coriander, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+mushroom olan,"mushroom, coconut milk, curry leaves",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+mushroom pachadi,"mushroom, yogurt, coconut, mustard seeds",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+mushroom pakora,"mushroom, gram flour, spices, oil",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+mushroom palya,"mushroom, curry leaves, mustard seeds",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+mushroom paturi,"mushroom, mustard paste, banana leaf",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0
+mushroom pepper fry,"mushroom, black pepper, onion, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+mushroom pepper masala,"mushroom, black pepper, onion, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+mushroom poha,"mushroom, flattened rice, onion",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+mushroom pulao,"mushroom, rice, onion, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+mushroom pulissery,"mushroom, yogurt, coconut, cumin",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+mushroom rasam,"mushroom, tamarind, tomato, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+mushroom roast,"mushroom, curry leaves, onion, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+mushroom sambar,"mushroom, lentils, tamarind, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+mushroom shorba,"mushroom, garlic, coriander, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+mushroom soup,"mushroom, pepper, butter, herbs",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+mushroom spring roll,"mushroom, wrapper, vegetables",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+mushroom stew,"mushroom, coconut milk, potato, spices",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+mushroom stuffed paratha,"mushroom, wheat flour, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+mushroom sukka,"mushroom, coconut, onion, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+mushroom thepla,"mushroom, wheat flour, fenugreek",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+mushroom thoran,"mushroom, coconut, curry leaves",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+mushroom tikka,"mushroom, yogurt, spices, onion",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+mushroom upma,"mushroom, semolina, curry leaves",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+mushroom uttapam,"mushroom, rice batter, onion",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+mushroom wrap,"mushroom, tortilla, vegetables, sauce",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+mustard egg curry,"egg, mustard, onion, spices",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+mustard fish curry,"fish, mustard, tomato, spices",0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0
+mustard prawn curry,"prawn, mustard, coconut, spices",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+mutta curry,"egg, coconut milk, onion, spices",0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+mutta roast,"egg, onion, tomato, spices",0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+mutton bhuna,"mutton, onion, tomato, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+mutton biryani,"mutton, rice, onion, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+mutton cafreal,"mutton, coriander, green chili, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+mutton chaap,"mutton, yogurt, spices, ghee",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+mutton changezi,"mutton, tomato, cream, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+mutton chettinad,"mutton, coconut, pepper, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+mutton chop,"mutton, potato, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+mutton curry,"mutton, onion, tomato, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+mutton cutlet,"mutton, potato, breadcrumbs",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+mutton dak bungalow,"mutton, potato, onion, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+mutton do pyaza,"mutton, onion, tomato, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+mutton frankie,"mutton, roti, onion, sauce",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+mutton ghee roast,"mutton, ghee, chili, spices",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+mutton gushtaba,"mutton, yogurt, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+mutton harissa,"mutton, wheat, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+mutton ishtu,"mutton, coconut milk, potato",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+mutton jalfrezi,"mutton, capsicum, onion, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+mutton kadai,"mutton, capsicum, onion, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1
+mutton kathi roll,"mutton, paratha, onion, sauce",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+mutton keema,"mutton, onion, tomato, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+mutton kheema pav,"mutton, onion, spices, pav",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+mutton korma,"mutton, almond, yogurt, onion",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+mutton korma,"mutton, yogurt, milk, onion",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+mutton korma,"mutton, yogurt, onion, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+mutton kosha,"mutton, onion, tomato, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+mutton momos,"mutton, flour, onion, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+mutton nihari,"mutton, onion, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+mutton pakora,"mutton, gram flour, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+mutton pepper fry,"mutton, black pepper, onion, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+mutton pulao,"mutton, rice, onion, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+mutton qorma,"mutton, yogurt, onion, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+mutton rezala,"mutton, yogurt, cashew, spices",0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+mutton rista,"mutton, spices, yogurt",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+mutton roast,"mutton, onion, tomato, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+mutton rogan josh,"mutton, yogurt, onion, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+mutton seekh roll,"mutton, paratha, onion, sauce",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+mutton sheekh kebab,"mutton, spices, herbs",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+mutton shorba,"mutton, coriander, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+mutton soup,"mutton, pepper, herbs",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+mutton stew,"mutton, coconut milk, potato, spices",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+mutton sukka,"mutton, coconut, onion, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+mutton varuval,"mutton, curry leaves, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+mutton vindaloo,"mutton, vinegar, chili, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+mutton xacuti,"mutton, coconut, chili, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+mutton yakhni,"mutton, yogurt, fennel, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+mysore pak,"gram flour, ghee, sugar",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+namak para,"flour, ghee, salt",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+nargisi kofta,"egg, minced meat, onion, spices",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+navratan korma,"vegetables, paneer, almond, cashew",0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+navratan korma,"vegetables, paneer, milk, cashew",0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+navratan korma,"capsicum, vegetables, cream, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+neyyappam,"rice flour, ghee, jaggery, banana",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+neyyappam,"banana, rice flour, jaggery, ghee",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+nolen gurer payesh,"rice, milk, ghee, date palm jaggery",0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+obbattu,"chana dal, ghee, jaggery, flour",0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+obbattu,"chana dal, jaggery, flour, ghee",0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+palak paneer,"paneer, spinach, milk, spices",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+palak paneer,"paneer, spinach, cream, spices",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+panchmel dal,"chana dal, moong dal, urad dal, spices",0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+paneer 65,"paneer, yogurt, curry leaves, spices",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+paneer angara,"paneer, tomato, cream, spices",0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+paneer bharta,"paneer, tomato, onion, spices",0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+paneer bhurji,"paneer, onion, tomato, milk",0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+paneer bhurji,"paneer, onion, tomato, green chili",0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+paneer biryani,"paneer, rice, spices, vegetables",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+paneer bread roll,"paneer, bread, potato, spices",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+paneer butter masala,"paneer, butter, cream, milk",0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+paneer butter masala,"paneer, butter, cream, tomato",0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+paneer chaat,"paneer, onion, tomato, lemon",0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+paneer chilli,"paneer, capsicum, onion, sauces",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+paneer chilli dry,"paneer, capsicum, onion, sauces",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+paneer corn curry,"paneer, corn, cream, spices",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+paneer corn roll,"capsicum, paneer, corn, wrap",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+paneer croquette,"paneer, potato, breadcrumbs",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+paneer cutlet,"paneer, potato, breadcrumbs, spices",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+paneer dhokla,"paneer, gram flour, yogurt",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+paneer do pyaza,"paneer, onion, tomato, spices",0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+paneer dosa,"paneer, rice batter, spices",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+paneer frankie,"paneer, roti, vegetables, sauce",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+paneer fried rice,"paneer, rice, vegetables, sauces",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+paneer handvo,"paneer, rice, lentils, yogurt",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+paneer jalfrezi,"paneer, capsicum, onion, tomato",0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+paneer kathi roll,"paneer, paratha, vegetables, sauce",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+paneer kolhapuri,"paneer, coconut, tomato, spices",0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+paneer korma,"paneer, almond, cashew, yogurt",0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+paneer korma,"paneer, yogurt, milk, spices",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+paneer korma,"paneer, yogurt, cream, spices",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+paneer kulcha,"paneer, flour, butter, spices",0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+paneer lababdar,"paneer, milk, tomato, onion",0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+paneer lababdar,"paneer, cream, tomato, onion",0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+paneer makhani,"paneer, butter, tomato, cream",0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+paneer makhani,"paneer, butter, tomato, cream",0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+paneer malai tikka,"paneer, cream, yogurt, spices",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+paneer manchurian,"paneer, corn flour, sauces",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+paneer momos,"paneer, flour, vegetables",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+paneer mushroom masala,"paneer, mushroom, tomato, spices",0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+paneer naan,"paneer, flour, yogurt, butter",0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+paneer pakora,"paneer, gram flour, milk, oil",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+paneer pakora,"paneer, gram flour, spices, oil",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+paneer paratha,"paneer, whole wheat flour, butter, spices",0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+paneer paratha,"paneer, whole wheat flour, spices",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+paneer pasanda,"paneer, cream, cashew, spices",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+paneer pulao,"paneer, rice, vegetables, spices",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+paneer roll,"paneer, roti, vegetables, sauce",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+paneer sandwich,"paneer, bread, butter, vegetables",0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+paneer sev puri,"paneer, puri, chutney, sev",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+paneer shashlik,"paneer, capsicum, onion, spices",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+paneer stuffed capsicum,"paneer, capsicum, spices",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+paneer stuffed capsicum,"capsicum, paneer, spices",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+paneer stuffed tomato,"paneer, tomato, herbs",0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+paneer tawa masala,"paneer, tomato, onion, spices",0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+paneer tikka,"paneer, milk, capsicum, onion",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+paneer tikka,"paneer, yogurt, capsicum, onion",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+paneer tikki,"paneer, potato, spices",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+paneer toast,"paneer, bread, butter",0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+paneer upma,"paneer, semolina, vegetables",0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+paneer uttapam,"paneer, rice batter, onion, tomato",0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+parippu pradhaman,"moong dal, jaggery, coconut milk, ghee",0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+paruppu payasam,"lentils, ghee, jaggery, coconut milk",0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+paruppu vadai,"chana dal, onion, chili, curry leaves",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+patishapta,"rice flour, ghee, coconut, jaggery",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pav bhaji,"mixed vegetables, butter, pav bread, spices",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pavakka mezhukkupuratti,"bitter gourd, coconut oil, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+pavakka theeyal,"bitter gourd, roasted coconut, tamarind",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+pavakkai fry,"bitter gourd, chili powder, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+pavakkai pachadi,"bitter gourd, yogurt, coconut",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+pavakkai pitlai,"bitter gourd, lentils, tamarind, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+pavakkai poriyal,"bitter gourd, coconut, curry leaves",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+payasam,"milk, vermicelli, sugar, ghee",0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pazham pori,"banana, flour, sugar, turmeric, oil",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+peanut barfi,"peanut, milk, sugar, ghee",1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+peanut barfi,"peanut, milk, sugar, ghee",1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+peanut bhaji,"peanut, gram flour, onion, green chilies",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+peanut chaat,"peanut, onion, tomato, chaat masala",1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+peanut chutney,"peanut, garlic, red chilies, mustard seeds",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+peanut coconut chutney,"peanut, coconut, green chilies, ginger",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+peanut curry,"peanut, onion, tomato, coconut milk",1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+peanut garlic chutney,"peanut, garlic, red chilies, cumin seeds",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+peanut kheer,"peanut, milk, sugar, saffron",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+peanut ladoo,"ghee, peanut, cardamom powder, jaggery",1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+peanut pakora,"peanut, gram flour, rice flour, green chilies",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+peanut peda,"peanut, milk, sugar, cardamom powder",1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+peanut rice,"cooked rice, peanut, dried red chilies,  chana dal",1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+peanut stuffed brinjal,"brinjal, peanut, coconut, sesame seeds",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+peanut sundal,"peanut, grated coconut, curry leaves, green chilies",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+peanut thecha,"peanut, green chilies,  cumin seeds, coriander leaves",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+peanut usal,"peanut, onion, tomato,  green chilies",1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+peda,"milk, sugar, cardamom powder",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pesara garelu,"moong dal, green chili, ginger, cumin",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+pesarattu,"moong dal, ginger, green chili, cumin",0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+phirni,"rice, milk,  saffron, cardamom powder",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pistachio appam,"rice, pistachio, coconut milk",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pistachio chaat,"pistachio, onion, tomato, lemon",0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+pistachio cham cham,"chhena, pistachio, sugar syrup, milk",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pistachio coconut bar,"pistachio, coconut, sugar, ghee",0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pistachio date ladoo,"pistachio, date, ghee, cardamom powder",0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pistachio delight squares,"pistachio, milk, sugar, ghee",0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pistachio dhokla,"gram flour, pistachio, yogurt",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pistachio dry fruit roll,"pistachio, date, fig, almond",0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pistachio falooda,"pistachio, milk, falooda sev, basil seed",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pistachio festival sweet,"pistachio, khoya, sugar, cardamom powder",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pistachio fig barfi,"pistachio, fig, sugar, ghee",0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pistachio firni tart,"rice, pistachio, milk, sugar",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pistachio fusion burfi,"pistachio, milk solids, sugar",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pistachio ghevar,"flour, pistachio, milk, ghee",0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pistachio gujiya,"flour, pistachio, khoya, sugar, ghee",0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pistachio gulkand modak,"pistachio, gulkand, coconut, jaggery",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pistachio handvo,"rice, lentil, pistachio, yogurt",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pistachio idiyappam,"rice flour, pistachio, coconut",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pistachio jalebi rabri,"jalebi, pistachio, milk, saffron",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pistachio kaju roll,"pistachio, cashew, sugar",0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pistachio kesar pudding,"pistachio, milk, saffron, sugar",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pistachio khoya roll,"pistachio, khoya, sugar, cardamom powder",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pistachio khubani delight,"apricot, pistachio, cream",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pistachio makhana delight,"fox nut, pistachio, milk, sugar",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pistachio malpua,"flour, pistachio, milk, sugar syrup",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pistachio mawa cake,"khoya, pistachio, flour, sugar",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pistachio milk cake,"pistachio, milk, sugar, ghee",0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pistachio mini tart,"pistachio, milk, sugar, flour",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pistachio mishti doi,"milk, pistachio, sugar, yogurt culture",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pistachio mohanthal,"gram flour, pistachio, sugar, ghee",0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pistachio naan,"flour, pistachio, yogurt, butter",0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pistachio paneer tikka,"paneer, pistachio, yogurt, spices",0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pistachio paratha,"flour, pistachio, potato, spices",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pistachio patisa,"gram flour, pistachio, sugar, ghee",0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pistachio pheni,"pheni, pistachio, milk, sugar",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pistachio rasmalai,"chhena, pistachio, milk",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pistachio royal slice,"pistachio, khoya, sugar, saffron",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pistachio sandesh,"chhena, pistachio, sugar, cardamom powder",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pistachio seviyan,"vermicelli, pistachio, milk, sugar",0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pistachio shrikhand,"yogurt, pistachio, cardamom powder",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pistachio soan papdi,"gram flour, pistachio, sugar, ghee",0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pistachio stuffed capsicum,"capsicum, pistachio, paneer, spices",0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+pistachio stuffed dates,"date, pistachio, honey",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pistachio stuffed kulcha,"flour, pistachio, paneer, spices",0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pistachio stuffed tomato,"tomato, pistachio, paneer, spices",0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+pistachio sutarfeni,"sutarfeni, pistachio, sugar",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pistachio sweet pongal,"rice, pistachio, jaggery, ghee",0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pistachio sweet samosa,"flour, pistachio, khoya, sugar",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pistachio treasure bites,"pistachio, date, coconut",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pistachio uttapam,"rice batter, pistachio, onion",0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+pithe,"rice flour, ghee, coconut, jaggery",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+poha,"flattened rice, peanut, onion, curry leaves",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+potol posto,"pointed gourd, mustard oil, poppy seeds",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+prawn 65,"prawn, curry leaves, spices, yogurt",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+prawn balchao,"prawn, vinegar, chili, spices",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+prawn bhapa,"prawn, mustard paste, coconut, chili",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+prawn bhuna,"prawn, onion, tomato, spices",0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+prawn biryani,"prawn, rice, onion, spices, yogurt",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+prawn caldine,"prawn, coconut milk, turmeric, spices",0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+prawn chaat,"prawn, onion, tomato, lemon juice",0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+prawn chettinad,"prawn, coconut, pepper, spices",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+prawn chop,"prawn, potato, spices, breadcrumbs",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+prawn chorchori,"prawn, vegetables, mustard oil",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+prawn chowmein,"prawn, noodles, vegetables, sauces",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+prawn chukka,"prawn, onion, chili, spices",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+prawn curry,"prawn, onion, tomato, spices, oil",0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+prawn cutlet,"prawn, potato, breadcrumbs, spices",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+prawn egg fried rice,"prawn, egg, rice, vegetables",0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+prawn frankie,"prawn, roti, vegetables, sauce",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+prawn fried rice,"prawn, rice, vegetables, soy sauce",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+prawn fried rice,"prawn, capsicum, rice, soy sauce",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+prawn gassi,"prawn, coconut, tamarind, spices",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+prawn hakka noodles,"prawn, noodles, vegetables, soy sauce",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+prawn hakka noodles,"prawn, capsicum, noodles, vegetables",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+prawn jhal,"prawn, mustard paste, chili",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+prawn kathi roll,"prawn, paratha, onion, sauce",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+prawn kebab,"prawn, yogurt, spices, oil",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+prawn keema,"prawn, onion, spices, herbs",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+prawn korma,"prawn, yogurt, onion, spices",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+prawn kosha,"prawn, onion, tomato, spices",0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+prawn malai curry,"prawn, coconut milk, onion, ginger",0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+prawn manchurian,"prawn, corn flour, sauces",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+prawn masala,"prawn, onion, tomato, spices",0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+prawn moilee,"prawn, coconut milk, curry leaves",0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+prawn momos,"prawn, flour, vegetables",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+prawn pakora,"prawn, gram flour, spices, oil",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+prawn paturi,"prawn, mustard paste, banana leaf",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0
+prawn pepper fry,"prawn, black pepper, onion, spices",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+prawn pulao,"prawn, rice, onion, spices",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+prawn pulimunchi,"prawn, tamarind, chili, spices",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+prawn roast,"prawn, onion, tomato, spices",0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+prawn roll,"prawn, paratha, onion, sauce",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+prawn saag,"prawn, spinach, onion, spices",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+prawn sandwich,"prawn, bread, butter, vegetables",0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+prawn spring roll,"prawn, flour wrapper, vegetables",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+prawn stew,"prawn, coconut milk, potato, spices",0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+prawn stuffed paratha,"prawn, wheat flour, spices",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+prawn sukka,"prawn, coconut, onion, spices",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+prawn theeyal,"prawn, roasted coconut, tamarind",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+prawn thokku,"prawn, onion, tomato, spices",0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+prawn tikka,"prawn, yogurt, spices, lemon juice",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+prawn ularthiyathu,"prawn, coconut slices, spices",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+prawn varuval,"prawn, curry leaves, chili, spices",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+prawn vindaloo,"prawn, vinegar, chili, spices",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+prawn xacuti,"prawn, coconut, chili, spices",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+puliyogare,"rice, peanut, curry leaves,  red chilies",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+puliyogare,"rice, tamarind, peanut, ghee",1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+puran poli,"chana dal, ghee, jaggery, wheat flour",0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+puran poli,"chana dal, jaggery, wheat flour, ghee",0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+rabri,"milk, sugar, saffron, cardamom powder",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+rabri malpua,"flour, milk, ghee, sugar syrup",0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ragda pattice,"white peas, potato patties, peanut",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+rajbhog,"chhena, milk, sugar syrup, saffron",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+rasgulla,"chhena, milk, sugar",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+rasmalai,"chhena, milk, sugar, saffron",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+rava kesari,"semolina, ghee, sugar, saffron",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sabudana khichdi,"sabudana (sago pearls), peanut, green chilies, lemon juice",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sabudana vada,"sabudana (sago pearls), peanut, boiled potatoes, green chilies",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sakkarai pongal,"rice, ghee, jaggery, cardamom powder",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sandesh,"chhena, milk, sugar, cardamom powder",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sarson ka saag,"mustard greens, butter, spices",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+sarson ka saag,"mustard leaves, mustard, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+schezwan fried rice,"capsicum, rice, vegetables, schezwan sauce",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+shahi chicken curry,"chicken, almond, cashew,  tomato",0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0
+shahi kheer,"rice, almond, milk, sugar",0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+shahi kofta,"paneer, almond, cashew, cream",0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+shahi kofta,"paneer, milk, spices, tomato gravy",0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+shahi paneer,"paneer, almond, onion, tomato",0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+shahi paneer,"paneer, cream, onion, milk",0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+shahi paneer,"paneer, cream, onion, tomato",0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+shahi tukda,"bread, almond, milk,  ghee, pistachio",0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+shakarpara,"flour, ghee, sugar",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+shami kebab,"mutton, chana dal, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+sheer khurma,"vermicelli, almond, milk, ghee, pistachios",0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sheera,"semolina, ghee, sugar, cardamom powder",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+shengdana amti,"peanut, tamarind pulp, jaggery, red chili powder",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+shengdana chutney,"peanut, dried red chilies, cumin seeds, garlic",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+shengdana usal,"peanut, onion, coconut, red chili powder",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+shorshe bata maach,"fish, mustard, green chili, mustard oil",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+shorshe ilish,"fish, mustard paste, green chili, mustard oil",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+shrikhand,"yogurt, milk, cardamom powder, saffron",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+shukto,"mustard, bitter gourd, vegetables, milk",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0
+sitabhog,"rice flour, ghee, sugar",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sooji halwa,"semolina, ghee, sugar, cardamom powder",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sorisa baigana,"eggplant, mustard, spices",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0
+sorisa bhendi,"okra, mustard, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+sorisa machha,"fish, mustard, spices",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+sorshe chingri,"prawn, mustard, green chili, mustard oil",0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+sorshe ilish,"hilsa fish, mustard, green chili, mustard oil",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+sorshe katla,"katla fish, mustard, green chili, mustard oil",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+sorshe koi,"koi fish, mustard, green chili",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+sorshe pabda,"pabda fish, mustard, green chili",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+sorshe parshe,"parshe fish, mustard, green chili",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+sorshe pomfret,"pomfret, mustard, green chili",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+sorshe rui,"rohu fish, mustard, green chili, mustard oil",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+sorshe tangra,"tangra fish, mustard, green chili",0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+stuffed bell pepper,"capsicum, rice, potato, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+stuffed bitter gourd,"bitter gourd, onion, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+sutarfeni,"flour, ghee, sugar",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sweet lassi,"yogurt, milk, sugar, cardamom powder",0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+sweet pongal,"rice, ghee, jaggery, cashew",0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+tamarind rice with peanuts,"rice, peanut, tamarind pulp, red chilies",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+tawa pulao,"capsicum, rice, tomato, pav bhaji masala",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+thekua,"wheat flour, ghee, jaggery",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+til peanut ladoo,"sesame seeds, peanut, jaggery, ghee",1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+tofu chilli,"tofu, capsicum, onion, sauces",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+tomato aloo curry,"tomato, potato, cumin, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+tomato bath,"tomato, rice, onion, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+tomato bhaji,"tomato, onion, green chili, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+tomato bhajiya,"tomato, gram flour, chili, oil",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+tomato bhat,"tomato, rice, onion, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+tomato bhel,"tomato, puffed rice, chutney, sev",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+tomato chaat,"tomato, onion, lemon juice, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+tomato chokha,"tomato, mustard oil, onion, chili",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+tomato chutney,"tomato, garlic, red chili, mustard seeds",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+tomato chutney,"tomato, mustard seeds, sugar",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+tomato coconut curry,"tomato, coconut milk, spices",0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+tomato curry,"tomato, onion, garlic, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+tomato cutlet,"tomato, potato, breadcrumbs, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+tomato dal,"tomato, lentils, onion, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+tomato dhokla,"tomato, gram flour, yogurt",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+tomato dosa,"tomato, rice batter, red chili",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+tomato ghassi,"tomato, coconut, tamarind, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+tomato gojju,"tomato, jaggery, tamarind, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+tomato halwa,"tomato, sugar, ghee, cardamom",0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+tomato handvo,"tomato, rice, lentils, yogurt",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+tomato jam,"tomato, sugar, lemon juice",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+tomato kachori,"tomato, flour, spices, oil",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+tomato kofta,"tomato, gram flour, spices, gravy",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+tomato kootu,"tomato, lentils, coconut, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+tomato mushroom masala,"tomato, mushroom, onion, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+tomato muthia,"tomato, wheat flour, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+tomato pachadi,"tomato, yogurt, green chili, mustard seeds",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+tomato pakora,"tomato, gram flour, spices, oil",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+tomato palya,"tomato, curry leaves, mustard seeds, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+tomato paneer curry,"tomato, paneer, onion, spices",0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+tomato pappu,"tomato, toor dal, garlic, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+tomato paratha,"tomato, wheat flour, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+tomato payasam,"tomato, milk, sugar, cardamom",0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+tomato peas curry,"tomato, peas, onion, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+tomato pickle,"tomato, red chili, mustard seeds, oil",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+tomato pulav,"tomato, rice, peas, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+tomato rasam,"tomato, tamarind, garlic, cumin",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+tomato relish,"tomato, vinegar, sugar, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+tomato rice,"tomato, rice, onion, curry leaves",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+tomato saar,"tomato, coconut, jaggery, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+tomato sabzi,"tomato, potato, cumin, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+tomato sambar,"tomato, lentils, tamarind, vegetables",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+tomato sandwich,"tomato, bread, butter, pepper",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+tomato sevai,"tomato, vermicelli, curry leaves, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+tomato shorba,"tomato, butter, cream, spices",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+tomato shorba,"tomato, garlic, spices, coriander",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+tomato soup,"tomato, butter, pepper, cream",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+tomato thepla,"tomato, wheat flour, fenugreek, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+tomato thokku,"tomato, garlic, red chili, sesame oil",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+tomato toast,"tomato, bread, butter, herbs",0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+tomato upma,"tomato, semolina, curry leaves, mustard seeds",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+tomato uttapam,"tomato, rice batter, onion, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+ukadiche modak,"rice flour, ghee, coconut, jaggery",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+unniyappam,"rice flour, ghee, jaggery, banana",0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+unniyappam,"banana, rice flour, jaggery, coconut",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+vangi bath,"rice, brinjal, peanut, chana dal",1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+veg chettinad,"capsicum, vegetables, coconut, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+veg club sandwich,"capsicum, bread, cucumber, butter",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+veg crispy,"capsicum, vegetables, corn flour",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+veg hot and sour soup,"capsicum, cabbage, carrot, vinegar",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+veg kolhapuri,"capsicum, carrot, peas, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+veg makhanwala,"mixed vegetables, butter, cream, spices",0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+veg noodles,"capsicum, noodles, cabbage, carrot",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+veg spring dosa,"capsicum, rice batter, vegetables",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+veg wrap,"capsicum, roti, vegetables, sauce",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+vegetable au gratin indian style,"capsicum, vegetables, cheese",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+vegetable burger,"capsicum, potato patty, bun",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+vegetable clear soup,"capsicum, cabbage, carrot, pepper",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+vegetable kebab,"capsicum, potato, carrot, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+vegetable korma,"mixed vegetables, almond, coconut, yogurt",0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+vegetable kurma,"capsicum, carrot, beans, coconut",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+vegetable maggi,"capsicum, noodles, carrot, peas",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+vegetable omelette curry,"capsicum, egg, onion, spices",0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+vegetable pizza dosa,"capsicum, rice batter, onion, cheese",0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+vegetable poha,"capsicum, flattened rice, onion, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+vegetable samosa,"capsicum, potato, peas, flour",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+vegetable stir fry,"capsicum, broccoli, carrot, spices",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+ven pongal,"rice, moong dal, ghee, pepper",0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+ven pongal,"moong dal, rice, black pepper, ghee",0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+verkadalai sundal,"peanut, coconut, curry leaves, green chilies",1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+zarda rice,"basmati rice, almond, raisins, ghee",0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0

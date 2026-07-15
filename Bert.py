@@ -4,17 +4,29 @@ from transformers import BertTokenizer, BertModel
 import torch
 import re
 
+from huggingface_hub import InferenceClient
 
 import csv
 from collections import defaultdict
 
 pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 
-# Load pre-trained BERT model and tokenizer
+# # Load pre-trained BERT model and tokenizer
 model_name = "bert-base-uncased"
 tokenizer = BertTokenizer.from_pretrained(model_name)
 model = BertModel.from_pretrained(model_name)
 model.eval()   # inference mode
+
+# from dotenv import load_dotenv
+# import os
+
+# load_dotenv()
+# client = InferenceClient(
+#     provider="hf-inference",
+#     api_key=os.getenv("HF_TOKEN")
+# )
+
+# print(os.getenv("HF_TOKEN"))
 
 # Extract text from an image using OCR
 def extract_text(image_path):
@@ -29,7 +41,6 @@ def normalize_text(text):
     text = re.sub(r"[^a-z0-9\s]", " ", text)
     text = re.sub(r"\s+", " ", text)
     return text.strip()
-
 
 # ALLERGENS = {
 #     "nuts": ["peanut", "almond", "almonds", "cashew", "walnut", "brazil nut", "pistachio", "raisin"],
@@ -77,6 +88,23 @@ def get_embedding(text):
 
     return outputs.last_hidden_state.mean(dim=1)
 
+
+# def get_embedding(text):
+#     embedding = client.feature_extraction(
+#         text,
+#         model="sentence-transformers/all-MiniLM-L6-v2"
+#     )
+
+#     embedding = torch.tensor(embedding)
+
+#     if embedding.dim() > 1:
+#         embedding = embedding.mean(dim=0)
+
+#     return embedding
+
+# import torch
+
+
 # Analyze text to detect allergens using Exact keyword and semantic matching
 def analyze_allergens(text, similarity_threshold=0.60):
     if text is None: 
@@ -98,6 +126,11 @@ def analyze_allergens(text, similarity_threshold=0.60):
             similarity = torch.cosine_similarity(
                 text_embedding, keyword_embedding
             ).item()
+            # similarity = torch.cosine_similarity(
+            #     text_embedding,
+            #     keyword_embedding,
+            #     dim=0
+            # ).item()
 
             if similarity >= similarity_threshold:
                 found.append(keyword)

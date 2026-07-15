@@ -2,6 +2,9 @@ from flask import Flask, request, jsonify
 import os
 from flask_cors import CORS
 import json
+from Own_model import analyze_allergens
+from ingredients import get_ingredients
+from Clip import predict_food, FOOD_LABELS
 
 from werkzeug.utils import secure_filename
 
@@ -68,7 +71,6 @@ def analyze():
 
         # CLIP
         if mode == "food":
-            from Clip import predict_food, FOOD_LABELS
             # Filter labels to exclude previous wrong predictions
             labels_to_search = [f for f in FOOD_LABELS if f not in exclude]
             food_name, confidence = predict_food(image_path, labels_to_search)
@@ -83,13 +85,20 @@ def analyze():
         food_name = request.form.get("food_name")
         if not food_name:
             return jsonify({"error": "Food name missing"}), 400
-        from ingredients import get_ingredients
+        
         ingredients = get_ingredients(food_name)
 
         # BERT
-        from Bert import analyze_allergens
+        # from Bert import analyze_allergens
+        # allergens = analyze_allergens(ingredients)
+
+        # Own ML Model
         allergens = analyze_allergens(ingredients)
-        
+        print({
+            "food": food_name,
+            "ingredients": ingredients,
+            "allergens": allergens
+        })
 
         return jsonify({
             "food": food_name,

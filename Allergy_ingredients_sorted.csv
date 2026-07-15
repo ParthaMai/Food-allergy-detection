@@ -1,0 +1,212 @@
+Food_Name,Ingredients,diet,prep_time,cook_time,flavor_profile,course,state,region
+Aloo gobi,"Cauliflower, potato ",vegetarian,10,20,spicy,main course,Punjab,North
+Aloo Posto,"potato, tomato",vegetarian,10,25,spicy,main course,West Bengal,East
+Aloo Posto,"Potato, tomato",vegetarian,10,25,spicy,main course,West Bengal,East
+Aloo tikki,"potato, capsicum, mushroom",vegetarian,5,20,spicy,main course,Punjab,North
+Alu Pitika,"Potato, coriander, fish, green chillies",non vegetarian,5,20,spicy,main course,Assam,North East
+Alur Dom (Bengali Style),"Potatoes, tomato, capsicum",vegetarian,10,35,spicy,main course,West Bengal,East
+Basanti Pulao,"Gobindobhog rice, ghee, cashews, raisins, saffron",vegetarian,10,30,sweet,main course,West Bengal,East
+Beguni,"Brinjal, besan ",vegetarian,10,20,spicy,snack,West Bengal,East
+Beguni,"Brinjal, besan ",vegetarian,10,20,spicy,snack,West Bengal,East
+Bengena Pitika,"Brinjal, onions, coriander",vegetarian,-1,-1,-1,main course,Assam,North East
+Bhapa Doi,"milk, cardamom",vegetarian,10,30,sweet,dessert,West Bengal,East
+Bhatura,"Chana dal, tomato",vegetarian,20,20,spicy,main course,Punjab,North
+Bhindi masala,"Ladies finger, tomato",vegetarian,20,30,spicy,main course,Punjab,North
+Bhujia,Gram flour,vegetarian,-1,-1,spicy,snack,West Bengal,East
+Bhujia,Gram flour,vegetarian,-1,-1,spicy,snack,West Bengal,East
+Biryani,"chicken, basmati rice, ghee",non vegetarian,30,120,spicy,main course,Telangana,South
+Black rice,"Forbidden black rice, chicken, almonds, garlic powder",non vegetarian,-1,-1,-1,main course,Manipur,North East
+Bora Sawul,"moong daal, mustard",vegetarian,-1,-1,spicy,main course,Assam,North East
+Brown Rice,"Brown rice, ghee",vegetarian,15,25,-1,main course,-1,-1
+Burger,"Burger bun, tomato, patty, chiken",vegetarian,20,20,savory,main course,West Bengal,East
+Burger,"Burger bun, tomato, patty, chicken",vegetarian,20,20,savory,main course,West Bengal,East
+Butter chicken,"chicken, butter",non vegetarian,10,35,spicy,main course,NCT of Delhi,North
+Cake,"Refined flour, sugar, butter, egg",vegetarian,-1,-1,sweet,dessert,West Bengal,East
+Cake,"Refined flour, sugar, butter, egg",vegetarian,-1,-1,sweet,dessert,West Bengal,East
+Cham cham,"Flour, milk, sugar, saffron",vegetarian,40,60,sweet,dessert,West Bengal,East
+Chana masala,"chana dal, tomato ",vegetarian,20,30,spicy,main course,Punjab,North
+Chapati,"Whole wheat flour, olive oil",vegetarian,10,10,-1,main course,Maharashtra,West
+Cheera Doi,"Rice, milk, curd",vegetarian,-1,-1,sweet,dessert,West Bengal,East
+Cheese Balls,"Corn, cheese, vegetable oil",vegetarian,-1,-1,savory,snack,West Bengal,East
+Chicken Cutlet,"chicken, bread crumbs",non vegetarian,20,30,savory,snack,West Bengal,East
+Chicken Lollipop,"chicken, corn flour",non vegetarian,20,25,spicy,starter,West Bengal,East
+Chicken Lollipop,"chicken, corn flour",non vegetarian,20,25,spicy,starter,West Bengal,East
+Chicken Popcorn,"chicken, bread crumbs",non vegetarian,20,20,savory,snack,West Bengal,East
+Chicken Popcorn,"chicken, bread crumbs",non vegetarian,20,20,savory,snack,West Bengal,East
+Chicken Puff,"Pufc pastry, chicken",non vegetarian,10,25,savory,snack,West Bengal,East
+Chicken razala,"chicken, butter, cashew, saffron",non vegetarian,10,35,spicy,main course,West Bengal,East
+Chicken Roll,"chicken, paratha",non vegetarian,20,30,spicy,snack,West Bengal,East
+Chicken Roll,"chicken, paratha",non vegetarian,20,30,spicy,snack,West Bengal,East
+Chicken Tikka,"chicken, egg",non vegetarian,120,45,spicy,starter,Punjab,North
+Chilli Chicken Style,"chicken, capsicum",non vegetarian,15,25,spicy,starter,West Bengal,East
+Chilli Chicken Style,"chicken, green chilies, tomato",non vegetarian,15,25,spicy,starter,West Bengal,East
+Chilli Paneer Style,"paneer, capsicum",vegetarian,15,25,spicy,starter,West Bengal,East
+Chingri Bhape,"Coconut, prawn, curd, mustard ",non vegetarian,15,30,-1,main course,West Bengal,East
+Chingri Bhorta,"prawn, tomato ",non vegetarian,10,15,spicy,side dish,West Bengal,East
+Chingri Cutlet,"pawn, potato, bread crumbs",non vegetarian,25,30,spicy,snack,West Bengal,East
+Chingri Machher Malaikari,"pawn, capsicum, milk",non vegetarian,15,40,spicy,main course,West Bengal,East
+Chingri Machher Malaikari,"pawn, capsicum, milk",non vegetarian,15,40,spicy,main course,West Bengal,East
+Chingri malai curry,"milk, tomato, capsicum",non vegetarian,10,40,spicy,main course,West Bengal,East
+Chirer Pulao,"peanuts, coconut, green chilies",vegetarian,10,20,spicy,main course,West Bengal,East
+Chocolate Bar,"chocolate, sugar, milk, butter",vegetarian,-1,-1,sweet,snack,West Bengal,East
+Chocolate Bar,"chocolate, sugar, milk, butter",vegetarian,-1,-1,sweet,snack,West Bengal,East
+Chocolate Cake,"Flour, chocolate, sugar, egg, butter, milk",vegetarian,15,45,sweet,dessert,West Bengal,East
+Cholar Torkari,"chana dal, potato, tomato, capsicum",vegetarian,10,30,sweet,main course,West Bengal,East
+Chole bhature,"chana dal, bhatura, tomato, capsicum",vegetarian,20,30,spicy,main course,Punjab,North
+Chop Cutlet (Veg),"Beetroot, potato, bread crumbs",vegetarian,20,30,spicy,snack,West Bengal,East
+Chowmein,"Noodles, cabbage, egg, chicken",vegetarian,15,20,savory,main course,West Bengal,East
+Churma Ladoo,"Whole wheat flour, ghee",vegetarian,12,40,sweet,dessert,Rajasthan,West
+Coconut vadi,"coconaut, milk, almond, cashews",vegetarian,20,30,sweet,dessert,Maharashtra,West
++Cornflakes,"Corn, sugar, malt flavoring",vegetarian,-1,-1,sweet,breakfast,West Bengal,East
+Cornflakes,"Corn, sugar",vegetarian,-1,-1,sweet,breakfast,West Bengal,East
+Cream Biscuit,"Refined flour, sugar, milk",vegetarian,-1,-1,sweet,snack,West Bengal,East
+Cream Roll,"Refined flour, sugar, milk",vegetarian,-1,-1,sweet,snack,West Bengal,East
+Cream Roll,"Refined flour, sugar, cream filling",vegetarian,-1,-1,sweet,snack,West Bengal,East
+Cup Noodles,Wheat noodles,vegetarian,2,5,savory,snack,West Bengal,East
+Cup Noodles,Wheat noodles,vegetarian,2,5,savory,snack,West Bengal,East
+Daal puri,"moong dal, chana dal, all purpose flour",vegetarian,30,30,spicy,main course,West Bengal,East
+Dahi vada,"Urad dal, milk",vegetarian,30,30,-1,snack,Maharashtra,West
+Dal makhani ,"Red kidney beans, moong dal, chana dal",vegetarian,10,60,sweet,main course,Punjab,North
+Dhokar Dalna,"chana dal, moong dal tomato",vegetarian,20,40,spicy,main course,West Bengal,East
+Dhokla,"moong dal, chana dal, coconut, mustard",vegetarian,10,20,spicy,snack,Gujarat,West
+Dim Bhuna,"egg, onion, tomato",non vegetarian,10,30,spicy,main course,West Bengal,East
+Dim Bhuna,"egg, onion, tomato",non vegetarian,10,30,spicy,main course,West Bengal,East
+Dimer Devil,"egg, potato, bread crumbs",non vegetarian,20,30,spicy,snack,West Bengal,East
+Dimer Devil,"egg, potato, bread crumbs",non vegetarian,20,30,spicy,snack,West Bengal,East
+Doi Katla,"fish, curd, ginger, milk, tomato",non vegetarian,15,35,spicy,main course,West Bengal,East
+Dosa,"chana dal, moong dal, tomato",vegetarian,360,90,spicy,snack,-1,South
+Drums of Heaven,"chicken, capsicum, mushroom",non vegetarian,20,30,spicy,starter,West Bengal,East
+Drums of Heaven,"chicken, capsicum, mushroom",non vegetarian,20,30,spicy,starter,West Bengal,East
+Dudhi halwa,"Bottle gourd, green, raisins, sugar, milk, butter",vegetarian,15,30,sweet,dessert,Gujarat,West
+Dum aloo,"Baby potatoes, tomato, capsicum, cashew",vegetarian,20,50,spicy,main course,Jammu & Kashmir,North
+Echorer Dalna,"Raw jackfruit, potato, tomato, milk",vegetarian,20,40,spicy,main course,West Bengal,East
+Echorer Dalna,"Raw jackfruit, potato, tomato, milk",vegetarian,20,40,spicy,main course,West Bengal,East
+Egg Puff,"Puff pastry, egg",non vegetarian,10,25,savory,snack,West Bengal,East
+Energy Drink,"Caffeine, sugar, taurine, water",vegetarian,-1,-1,sweet,beverage,West Bengal,East
+Energy Drink,"Caffeine, sugar, taurine, water",vegetarian,-1,-1,sweet,beverage,West Bengal,East
+Fish and Chips,"fish, potato, batter, oil",non vegetarian,20,30,savory,main course,West Bengal,East
+Fish Cutlet,"fish, potato, bread crumbs",non vegetarian,25,30,savory,snack,West Bengal,East
+Fish Fry (Bengali Style),fish ,non vegetarian,10,20,spicy,starter,West Bengal,East
+Fish Fry (Bengali Style),fish,non vegetarian,10,20,spicy,starter,West Bengal,East
+Flavored Milk,"milk, sugar",vegetarian,-1,-1,sweet,beverage,West Bengal,East
+French Fries,"Potatoes, oil, salt",vegetarian,10,15,savory,snack,West Bengal,East
+French Fries,"Potatoes, oil, salt",vegetarian,10,15,savory,snack,West Bengal,East
+Fried Rice,"Rice, capsicum, tomato, soy sauce",vegetarian,10,20,savory,main course,West Bengal,East
+Fried Rice,"Rice, capsicum, tomato, soy sauce",vegetarian,10,20,savory,main course,West Bengal,East
+Frozen Dessert,"milk, sugar",vegetarian,-1,-1,sweet,dessert,West Bengal,East
+Frozen Dessert,"milk, sugar",vegetarian,-1,-1,sweet,dessert,West Bengal,East
+Fruit Juice Pack,"Fruit concentrate, water, sugar",vegetarian,-1,-1,sweet,beverage,West Bengal,East
+Gajar ka halwa,"Carrots, milk, sugar, ghee, cashews, raisins",vegetarian,15,60,sweet,dessert,Punjab,North
+Garlic Bread,"Bread, garlic, butter",vegetarian,10,15,savory,starter,West Bengal,East
+Garlic Bread,"Bread, garlic, butter",vegetarian,10,15,savory,starter,West Bengal,East
+Ghugni,"Yellow peas, onion, ginger",vegetarian,20,40,spicy,snack,West Bengal,East
+Ghugni,"Yellow peas, onion, ginger",vegetarian,20,40,spicy,snack,West Bengal,East
+Goja,"Baking soda, butter",vegetarian,20,60,sweet,dessert,West Bengal,East
+Grilled Fish,"Fish, olive oil, garlic, lemon",non vegetarian,15,25,savory,main course,West Bengal,East
+Grilled Sandwich,"Bread, butter, vegetables, cheese",vegetarian,10,15,savory,snack,West Bengal,East
+Grilled Sandwich,"Bread, butter, vegetables, cheese",vegetarian,10,15,savory,snack,West Bengal,East
+Gulab jamun,"plain flour, ghee, milk, sugar",vegetarian,15,40,sweet,dessert,West Bengal,East
+Hakka Noodles,"Noodles, cabbage, capsicum, mushroom",vegetarian,15,20,savory,main course,West Bengal,East
+Ice Cream Cup,"Milk, sugar, flavoring",vegetarian,-1,-1,sweet,dessert,West Bengal,East
+Ice Cream Cup,"Milk, sugar, flavoring",vegetarian,-1,-1,sweet,dessert,West Bengal,East
+Idli,"urad dal, idli rice, thick poha",vegetarian,360,90,spicy,snack,-1,South
+Jalebi,"Maida, corn flour, curd, milk",vegetarian,10,50,sweet,dessert,Uttar Pradesh,North
+Jam Roll,"cake, fruit jam, sugar",vegetarian,-1,-1,sweet,snack,West Bengal,East
+Jeera Aloo,"Green chilies, boiled potatoes",vegetarian,10,30,spicy,main course,Gujarat,West
+Kabiraji,"Fish, besan, ginger",non vegetarian,-1,-1,spicy,main course,West Bengal,East
+Kachori,"Moong dal, garam masala",vegetarian,30,60,spicy,snack,Uttar Pradesh,North
+Kadai paneer,"cheese, garam masala, cashew",vegetarian,20,30,spicy,main course,Punjab,North
+Kadhi pakoda,"capsicum, Besan, garam masala powder",vegetarian,10,60,spicy,main course,Haryana,North
+Kaju katli,"Cashew, ghee, cardamom",vegetarian,10,20,sweet,dessert,-1,-1
+Kalakand,"Milk, cheese, sugar",vegetarian,20,30,sweet,dessert,West Bengal,East
+Kalia,"fish, potato, tomato, ghee",non vegetarian,15,40,spicy,main course,West Bengal,East
+Kalia,"fish, potato, tomato, ghee",non vegetarian,15,40,spicy,main course,West Bengal,East
+Kanchkolar Kofta,"banana, spices, tomato",vegetarian,20,35,spicy,main course,West Bengal,East
+Karela Bhaja (Bengali),"bitter gourd, mustard, salt",vegetarian,5,15,bitter,side dish,West Bengal,East
+Karela bharta,"bitter gourd, chili powder, amchur powder",vegetarian,20,50,bitter,main course,Punjab,North
+Kheer,"milk, ghee , rice, sugar, dried fruits",vegetarian,10,40,sweet,dessert,-1,-1
+Khichdi,"Moong dal, green peas, ginger, tomato",vegetarian,40,20,spicy,main course,-1,-1
+Kochu Shaak," mustard oil, green chilies",vegetarian,10,25,spicy,main course,West Bengal,East
+Kofta,"Paneer, potato, cream",vegetarian,20,40,spicy,main course,Uttar Pradesh,North
+Koldil Chicken," chicken,banana, green chili, mustard",non vegetarian,-1,-1,spicy,main course,Assam,North East
+Koldil Duck," mutton, banana, gram flour",non vegetarian,-1,-1,spicy,main course,Assam,North East
+Konir Dom,"Aloo, tomato, mustard oil",non vegetarian,-1,-1,spicy,main course,Assam,North East
+Koraishutir Kochuri,"Green peas, flour, spices, oil",vegetarian,30,30,spicy,breakfast,West Bengal,East
+Kosha Mangsho,"Mutton, onion, garlic, garam masala",non vegetarian,20,90,spicy,main course,West Bengal,East
+Kosha Mangsho,"Chicken, onion, garlic, garam masala",non vegetarian,20,90,spicy,main course,West Bengal,East
+Koshimbir," carrot, tomato, cilantro",vegetarian,10,10,spicy,main course,Maharashtra,West
+Kulfi falooda,"Rose syrup, falooda sev, nuts",vegetarian,45,25,sweet,dessert,-1,-1
+Kumro Bori,"Pumpkin, lentil dumplings, mustard",vegetarian,10,30,spicy,main course,West Bengal,East
+Kumro Chingri,"Pumpkin, prawn, mustard oil",non vegetarian,10,30,spicy,main course,West Bengal,East
+Laapsi,"Cinnamon, butter, dry roasted",vegetarian,10,40,spicy,main course,Madhya Pradesh,Central
+Labra,"Mixed vegetables, panch phoron, ginger",vegetarian,20,35,spicy,main course,West Bengal,East
+Laddu,"Gram flour, ghee, sugar",vegetarian,10,40,sweet,dessert,-1,-1
+Lassi,"Yogurt, milk, cashew, sugar",vegetarian,5,5,sweet,dessert,Punjab,North
+Litti chokha,"Wheat flour, roasted gram flour, tomato",vegetarian,45,60,spicy,main course,Bihar,North
+Luchi,"Maida, vegetable oil",vegetarian,20,30,-1,main course,West Bengal,East
+Lyangcha,"Flour, milk, sugar syrup",vegetarian,20,30,sweet,dessert,Assam,North East
+Maach Jhol,"fish, potol, tomato",non vegetarian,10,40,spicy,main course,Assam,North East
+Macher Jhol (Rui/Katla),"fish, potato, turmeric, mustard",non vegetarian,10,30,spicy,main course,West Bengal,East
+Macher Jhol (Rui/Katla),"fish, potato, turmeric, mustard",non vegetarian,10,30,spicy,main course,West Bengal,East
+Machher Chop,"fish, potato, spices",non vegetarian,20,30,spicy,snack,West Bengal,East
+Mag Dhokli,"Moong beans, jaggery",vegetarian,-1,-1,spicy,snack,Gujarat,West
+Malapua,"Yoghurt, refined flour, ghee",vegetarian,10,120,sweet,dessert,Bihar,North
+Manchurian,"Vegetable balls, garlic, soy sauce",vegetarian,20,25,spicy,starter,West Bengal,East
+Methi na Gota,"Rava, gram flour, lemon juice",vegetarian,15,30,bitter,main course,Gujarat,West
+Mihidana,"Besan flour, sugar, ghee",vegetarian,15,30,sweet,dessert,West Bengal,East
+Milkshake Pack,"milk, sugar, flavoring",vegetarian,-1,-1,sweet,beverage,West Bengal,East
+Mishti Chholar Dal,"chana dal, fresh coconut, ginger, cinnamon, raisins",vegetarian,10,30,sweet,main course,West Bengal,East
+Misti doi,"milk, jaggery",vegetarian,480,30,sweet,dessert,West Bengal,East
+Moa,"Puffed rice, jaggery, peanut",vegetarian,15,20,sweet,dessert,West Bengal,East
+Moa,"Puffed rice, jaggery, peanut",vegetarian,15,20,sweet,dessert,West Bengal,East
+Mocha Ghonto,"banana, potato, coconut",vegetarian,20,40,spicy,main course,West Bengal,East
+Mochar Ghonto,"banana, coconut, potato",vegetarian,20,40,spicy,main course,West Bengal,East
+Momos Fried,"Momo wrappers,capsicum, vegetable filling, oil",vegetarian,30,20,spicy,snack,West Bengal,East
+Momos Fried,"Momo wrappers, capsicum, vegetable filling, oil",vegetarian,30,20,spicy,snack,West Bengal,East
+Momos Steamed,"Momo wrappers, capsicum, spices",vegetarian,30,15,savory,snack,West Bengal,East
+Moong Dal Bhaja,"moong dal, spices, mustard oil",vegetarian,10,20,spicy,side dish,West Bengal,East
+Moong Dal Bhaja,"moong dal, spices, mustard oil",vegetarian,10,20,spicy,side dish,West Bengal,East
+Muri Ghonto,"fish, rice, potato, garam masala",non vegetarian,20,45,spicy,main course,West Bengal,East
+Muri Ghonto,"fish, potato, garam masala",non vegetarian,20,45,spicy,main course,West Bengal,East
+Mushroom do pyaza,"mushroom, malai, capsicum",vegetarian,10,30,spicy,main course,Punjab,North
+Muthiya,"Bottle gourd, whole wheat flour",vegetarian,15,30,bitter,snack,Gujarat,West
+Naan,"Whole wheat flour, honey, butter, garlic",vegetarian,60,30,-1,main course,Punjab,North
+Narkel Naru,"Grated coconut, jaggery, cardamom",vegetarian,10,15,sweet,dessert,West Bengal,East
+Nolen Gurer Payesh,"Gobindobhog rice, date palm jaggery, milk",vegetarian,10,40,sweet,dessert,West Bengal,East
+Oats Cereal,"Oats, salt",vegetarian,-1,-1,savory,breakfast,West Bengal,East
+Oats Cereal,"Oats, salt",vegetarian,-1,-1,savory,breakfast,West Bengal,East
+Omelette,"egg, onion, green chilies",non vegetarian,5,10,savory,breakfast,West Bengal,East
+Omelette,"egg, onion, green chilies",non vegetarian,5,10,savory,breakfast,West Bengal,East
+Packaged Cake Slice,"Refined flour, sugar, vegetable oil",vegetarian,-1,-1,sweet,dessert,West Bengal,East
+Palak paneer,"cheese, palak,paneer, cream, butter",vegetarian,20,40,spicy,main course,Punjab,North
+Paneer tikka masala,"paneer, greek yogurt, tandoori masala",vegetarian,20,40,spicy,main course,Punjab,North
+Pani puri,"Kala chana, mashed potato, lemon",vegetarian,15,2,spicy,snack,-1,-1
+Pantua,"Chhena, sugar, ghee, flour",vegetarian,45,45,sweet,dessert,West Bengal,East
+Papad,"chana dal, sev, lemon juice, chopped tomatoes",vegetarian,5,5,spicy,snack,-1,-1
+Paratha,"Wheat flour, butter, potato",vegetarian,15,45,spicy,main course,Punjab,North
+Pasta,"Pasta, tomato, olive oil, herbs",vegetarian,20,25,savory,main course,West Bengal,East
+Pasta,"Pasta, tomato, olive oil, herbs",vegetarian,20,25,savory,main course,West Bengal,East
+Patishapta,"Rice flour, coconut",vegetarian,20,30,sweet,dessert,West Bengal,East
+Pav Bhaji,"Pav bhaji masala, gobi, potatoes, butter",vegetarian,20,40,spicy,main course,Maharashtra,West
+Payokh,"Basmati rice, rose water, butter, cardamom",vegetarian,-1,-1,sweet,dessert,Assam,North East
+Pepe Chingri,"Raw papaya, prawn, mustard, green chilies",non vegetarian,10,30,spicy,main course,West Bengal,East
+Peyaji,"Onion, besan, green chilies, mustard oil",vegetarian,10,20,spicy,snack,West Bengal,East
+Pithe,"Rice flour, wheat flour",vegetarian,15,35,sweet,dessert,Assam,North East
+Pizza,"Pizza base, mozzarella, tomato, chicken",vegetarian,30,25,savory,main course,West Bengal,East
+Pizza,"Pizza base, mozzarella, tomato, chicken",vegetarian,30,25,savory,main course,West Bengal,East
+Popcorn,"Corn kernels, butter, salt",vegetarian,5,5,savory,snack,West Bengal,East
+Popcorn,"Corn kernels, butter, salt",vegetarian,5,5,savory,snack,West Bengal,East
+Posto Bora,"Poppy seeds, green chilies, onion, mustard oil",vegetarian,15,20,spicy,snack,West Bengal,East
+Posto Bora,"Poppy seeds, green chilies, onion, mustard oil",vegetarian,15,20,spicy,snack,West Bengal,East
+Potato Chips,"Potatoes, vegetable oil, salt",vegetarian,-1,-1,savory,snack,West Bengal,East
+Potato Chips,"Potatoes, vegetable oil, salt",vegetarian,-1,-1,savory,snack,West Bengal,East
+Potol Bhaja,"Pointed gourd, mustard oil, salt",vegetarian,5,15,spicy,side dish,West Bengal,East
+Potol Bhaja,"Pointed gourd, mustard oil, salt",vegetarian,5,15,spicy,side dish,West Bengal,East
+Potoler Dolma,"Pointed gourd, coconut, poppy seeds, spices",vegetarian,20,35,spicy,main course,West Bengal,East
+Potoler Dolma,"Pointed gourd, coconut, poppy seeds, spices",vegetarian,20,35,spicy,main course,West Bengal,East
+Prawn malai curry," milk, prawn, garlic, turmeric",non vegetarian,15,50,spicy,main course,West Bengal,East
+Pui Shaak Chingri,"Malabar spinach, prawn, garlic",non vegetarian,10,25,spicy,main course,West Bengal,East
+Pui Shaak Chingri,"Malabar spinach, prawn, garlic",non vegetarian,10,25,spicy,main course,West Bengal,East
+Puli Pitha,"Rice flour, coconut, jaggery",vegetarian,20,30,sweet,dessert,West Bengal,East
+Puli Pitha,"Rice flour, coconut, jaggery",vegetarian,20,30,sweet,dessert,West Bengal,East
+Puri Bhaji,"Aloo, chana dal, mustard, ginger",vegetarian,10,30,spicy,main course,Maharashtra,West

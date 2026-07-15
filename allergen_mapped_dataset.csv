@@ -1,0 +1,257 @@
+name,ingredients,diet,prep_time,cook_time,flavor_profile,course,state,region
+Aloo gobi,"capsicum, bitter gourd",vegetarian,10,20,spicy,main course,Punjab,North
+Aloo Posto,"tomato",vegetarian,10,25,spicy,main course,West Bengal,East
+Aloo Posto,"tomato, banana",vegetarian,10,25,spicy,main course,West Bengal,East
+Aloo tikki,"capsicum, mushroom, bitter gourd",vegetarian,5,20,spicy,main course,Punjab,North
+Alu Pitika,"mustard, coriander",non vegetarian,5,20,spicy,main course,Assam,North East
+Alur Dom (Bengali Style),"capsicum, mushroom, bitter gourd",vegetarian,10,35,spicy,main course,West Bengal,East
+Basanti Pulao,"peanut, almond, pistachio",vegetarian,10,30,sweet,main course,West Bengal,East
+Beguni,"capsicum, mushroom, bitter gourd",vegetarian,10,20,spicy,snack,West Bengal,East
+Beguni,"capsicum, mushroom, bitter gourd",vegetarian,10,20,spicy,snack,West Bengal,East
+Bengena Pitika,"mustard, coriander",vegetarian,-1,-1,-1,main course,Assam,North East
+Bhapa Doi,"milk, butter, cheese, paneer, ghee",vegetarian,10,30,sweet,dessert,West Bengal,East
+Bhatura,"capsicum, mushroom, bitter gourd",vegetarian,20,20,spicy,main course,Punjab,North
+Bhindi masala,"capsicum, mushroom, bitter gourd",vegetarian,20,30,spicy,main course,Punjab,North
+Bhujia,"moong dal, chana dal",vegetarian,-1,-1,spicy,snack,West Bengal,East
+Bhujia,"moong dal, chana dal",vegetarian,-1,-1,spicy,snack,West Bengal,East
+Biryani,"chicken, mutton",non vegetarian,30,120,spicy,main course,Telangana,South
+Black rice,"capsicum, mushroom, bitter gourd",non vegetarian,-1,-1,-1,main course,Manipur,North East
+Bora Sawul,"capsicum, mushroom, bitter gourd",vegetarian,-1,-1,spicy,main course,Assam,North East
+Brown Rice,"capsicum, mushroom, bitter gourd",vegetarian,15,25,-1,main course,-1,-1
+Burger,"capsicum, mushroom, bitter gourd",vegetarian,20,20,savory,main course,West Bengal,East
+Burger,"capsicum, mushroom, bitter gourd",vegetarian,20,20,savory,main course,West Bengal,East
+Butter chicken,"chicken, mutton",non vegetarian,10,35,spicy,main course,NCT of Delhi,North
+Cake,"capsicum, mushroom, bitter gourd",vegetarian,-1,-1,sweet,dessert,West Bengal,East
+Cake,"capsicum, mushroom, bitter gourd",vegetarian,-1,-1,sweet,dessert,West Bengal,East
+Cham cham,"capsicum, mushroom, bitter gourd",vegetarian,40,60,sweet,dessert,West Bengal,East
+Chana masala,"capsicum, mushroom, bitter gourd",vegetarian,20,30,spicy,main course,Punjab,North
+Chapati,"capsicum, mushroom, bitter gourd",vegetarian,10,10,-1,main course,Maharashtra,West
+Cheera Doi,"milk, butter, cheese, paneer, ghee",vegetarian,-1,-1,sweet,dessert,West Bengal,East
+Cheese Balls,"capsicum, mushroom, bitter gourd",vegetarian,-1,-1,savory,snack,West Bengal,East
+Chicken Cutlet,"chicken, mutton",non vegetarian,20,30,savory,snack,West Bengal,East
+Chicken Lollipop,"chicken, mutton",non vegetarian,20,25,spicy,starter,West Bengal,East
+Chicken Lollipop,"chicken, mutton",non vegetarian,20,25,spicy,starter,West Bengal,East
+Chicken Popcorn,"chicken, mutton",non vegetarian,20,20,savory,snack,West Bengal,East
+Chicken Popcorn,"chicken, mutton",non vegetarian,20,20,savory,snack,West Bengal,East
+Chicken Puff,"chicken, mutton",non vegetarian,10,25,savory,snack,West Bengal,East
+Chicken razala,"chicken, mutton",non vegetarian,10,35,spicy,main course,West Bengal,East
+Chicken Roll,"chicken, mutton",non vegetarian,20,30,spicy,snack,West Bengal,East
+Chicken Roll,"chicken, mutton",non vegetarian,20,30,spicy,snack,West Bengal,East
+Chicken Tikka,"chicken, mutton",non vegetarian,120,45,spicy,starter,Punjab,North
+Chilli Chicken Style,"chicken, mutton",non vegetarian,15,25,spicy,starter,West Bengal,East
+Chilli Chicken Style,"chicken, mutton",non vegetarian,15,25,spicy,starter,West Bengal,East
+Chilli Paneer Style,"milk, butter, cheese, paneer, ghee",vegetarian,15,25,spicy,starter,West Bengal,East
+Chingri Bhape,"fish, prawn",non vegetarian,15,30,-1,main course,West Bengal,East
+Chingri Bhorta,"fish, prawn",non vegetarian,10,15,spicy,side dish,West Bengal,East
+Chingri Cutlet,"fish, prawn",non vegetarian,25,30,spicy,snack,West Bengal,East
+Chingri Machher Malaikari,"fish, prawn",non vegetarian,15,40,spicy,main course,West Bengal,East
+Chingri Machher Malaikari,"fish, prawn",non vegetarian,15,40,spicy,main course,West Bengal,East
+Chingri malai curry,"fish, prawn",non vegetarian,10,40,spicy,main course,West Bengal,East
+Chirer Pulao,"capsicum, mushroom, bitter gourd",vegetarian,10,20,spicy,main course,West Bengal,East
+Chocolate Bar,chocolate,vegetarian,-1,-1,sweet,snack,West Bengal,East
+Chocolate Bar,chocolate,vegetarian,-1,-1,sweet,snack,West Bengal,East
+Chocolate Cake,chocolate,vegetarian,15,45,sweet,dessert,West Bengal,East
+Cholar Torkari,"mustard, coriander",vegetarian,10,30,sweet,main course,West Bengal,East
+Chole bhature,"moong dal, chana dal",vegetarian,20,30,spicy,main course,Punjab,North
+Chop Cutlet (Veg),"capsicum, mushroom, bitter gourd",vegetarian,20,30,spicy,snack,West Bengal,East
+Chowmein,"capsicum, mushroom, bitter gourd",vegetarian,15,20,savory,main course,West Bengal,East
+Chowmein,"capsicum, mushroom, bitter gourd",vegetarian,15,20,savory,main course,West Bengal,East
+Churma Ladoo,"capsicum, mushroom, bitter gourd",vegetarian,12,40,sweet,dessert,Rajasthan,West
+Coconut vadi,"capsicum, mushroom, bitter gourd",vegetarian,20,30,sweet,dessert,Maharashtra,West
++Cornflakes,"capsicum, mushroom, bitter gourd",vegetarian,-1,-1,sweet,breakfast,West Bengal,East
+Cornflakes,"capsicum, mushroom, bitter gourd",vegetarian,-1,-1,sweet,breakfast,West Bengal,East
+Cream Biscuit,"capsicum, mushroom, bitter gourd",vegetarian,-1,-1,sweet,snack,West Bengal,East
+Cream Roll,"chicken, mutton",vegetarian,-1,-1,sweet,snack,West Bengal,East
+Cream Roll,"chicken, mutton",vegetarian,-1,-1,sweet,snack,West Bengal,East
+Cup Noodles,"capsicum, mushroom, bitter gourd",vegetarian,2,5,savory,snack,West Bengal,East
+Cup Noodles,"capsicum, mushroom, bitter gourd",vegetarian,2,5,savory,snack,West Bengal,East
+Daal puri,"capsicum, mushroom, bitter gourd",vegetarian,30,30,spicy,main course,West Bengal,East
+Dahi vada,"capsicum, mushroom, bitter gourd",vegetarian,30,30,-1,snack,Maharashtra,West
+Dal makhani ,"moong dal, chana dal",vegetarian,10,60,sweet,main course,Punjab,North
+Dhokar Dalna,"moong dal, chana dal",vegetarian,20,40,spicy,main course,West Bengal,East
+Dhokla,"moong dal, chana dal",vegetarian,10,20,spicy,snack,Gujarat,West
+Dim Bhuna,egg,non vegetarian,10,30,spicy,main course,West Bengal,East
+Dim Bhuna,egg,non vegetarian,10,30,spicy,main course,West Bengal,East
+Dimer Devil,egg,non vegetarian,20,30,spicy,snack,West Bengal,East
+Dimer Devil,egg,non vegetarian,20,30,spicy,snack,West Bengal,East
+Doi Katla,"fish, prawn",non vegetarian,15,35,spicy,main course,West Bengal,East
+Dosa,"moong dal, chana dal",vegetarian,360,90,spicy,snack,-1,South
+Drums of Heaven,"capsicum, mushroom, bitter gourd",non vegetarian,20,30,spicy,starter,West Bengal,East
+Drums of Heaven,"capsicum, mushroom, bitter gourd",non vegetarian,20,30,spicy,starter,West Bengal,East
+Dudhi halwa,"capsicum, mushroom, bitter gourd",vegetarian,15,30,sweet,dessert,Gujarat,West
+Dum aloo,"capsicum, mushroom, bitter gourd",vegetarian,20,50,spicy,main course,Jammu & Kashmir,North
+Echorer Dalna,"moong dal, chana dal",vegetarian,20,40,spicy,main course,West Bengal,East
+Echorer Dalna,"moong dal, chana dal",vegetarian,20,40,spicy,main course,West Bengal,East
+Egg Puff,egg,non vegetarian,10,25,savory,snack,West Bengal,East
+Energy Drink,"capsicum, mushroom, bitter gourd",vegetarian,-1,-1,sweet,beverage,West Bengal,East
+Energy Drink,"capsicum, mushroom, bitter gourd",vegetarian,-1,-1,sweet,beverage,West Bengal,East
+Fish and Chips,"fish, prawn",non vegetarian,20,30,savory,main course,West Bengal,East
+Fish Cutlet,"fish, prawn",non vegetarian,25,30,savory,snack,West Bengal,East
+Fish Fry (Bengali Style),"fish, prawn",non vegetarian,10,20,spicy,starter,West Bengal,East
+Fish Fry (Bengali Style),"fish, prawn",non vegetarian,10,20,spicy,starter,West Bengal,East
+Flavored Milk,"milk, butter, cheese, paneer, ghee",vegetarian,-1,-1,sweet,beverage,West Bengal,East
+French Fries,"capsicum, mushroom, bitter gourd",vegetarian,10,15,savory,snack,West Bengal,East
+French Fries,"capsicum, mushroom, bitter gourd",vegetarian,10,15,savory,snack,West Bengal,East
+Fried Rice,"capsicum, mushroom, bitter gourd",vegetarian,10,20,savory,main course,West Bengal,East
+Fried Rice,"capsicum, mushroom, bitter gourd",vegetarian,10,20,savory,main course,West Bengal,East
+Frozen Dessert,"capsicum, mushroom, bitter gourd",vegetarian,-1,-1,sweet,dessert,West Bengal,East
+Frozen Dessert,"capsicum, mushroom, bitter gourd",vegetarian,-1,-1,sweet,dessert,West Bengal,East
+Fruit Juice Pack,"capsicum, mushroom, bitter gourd",vegetarian,-1,-1,sweet,beverage,West Bengal,East
+Gajar ka halwa,"capsicum, mushroom, bitter gourd",vegetarian,15,60,sweet,dessert,Punjab,North
+Garlic Bread,"capsicum, mushroom, bitter gourd",vegetarian,10,15,savory,starter,West Bengal,East
+Garlic Bread,"capsicum, mushroom, bitter gourd",vegetarian,10,15,savory,starter,West Bengal,East
+Ghugni,"moong dal, chana dal",vegetarian,20,40,spicy,snack,West Bengal,East
+Ghugni,"moong dal, chana dal",vegetarian,20,40,spicy,snack,West Bengal,East
+Ghugni (Bengali Style),"moong dal, chana dal",vegetarian,20,40,spicy,snack,West Bengal,East
+Goja,"capsicum, mushroom, bitter gourd",vegetarian,20,60,sweet,dessert,West Bengal,East
+Grilled Fish,"fish, prawn",non vegetarian,15,25,savory,main course,West Bengal,East
+Grilled Sandwich,"capsicum, mushroom, bitter gourd",vegetarian,10,15,savory,snack,West Bengal,East
+Grilled Sandwich,"capsicum, mushroom, bitter gourd",vegetarian,10,15,savory,snack,West Bengal,East
+Gulab jamun,"milk, butter, cheese, paneer, ghee",vegetarian,15,40,sweet,dessert,West Bengal,East
+Hakka Noodles,"capsicum, mushroom, bitter gourd",vegetarian,15,20,savory,main course,West Bengal,East
+Ice Cream Cup,"milk, butter, cheese, paneer, ghee",vegetarian,-1,-1,sweet,dessert,West Bengal,East
+Ice Cream Cup,"milk, butter, cheese, paneer, ghee",vegetarian,-1,-1,sweet,dessert,West Bengal,East
+Idli,"moong dal, chana dal",vegetarian,360,90,spicy,snack,-1,South
+Jalebi,"capsicum, mushroom, bitter gourd",vegetarian,10,50,sweet,dessert,Uttar Pradesh,North
+Jam Roll,"chicken, mutton",vegetarian,-1,-1,sweet,snack,West Bengal,East
+Jeera Aloo,"capsicum, mushroom, bitter gourd",vegetarian,10,30,spicy,main course,Gujarat,West
+Kabiraji,"fish, prawn",non vegetarian,-1,-1,spicy,main course,West Bengal,East
+Kachori,"moong dal, chana dal",vegetarian,30,60,spicy,snack,Uttar Pradesh,North
+Kadai paneer,"milk, butter, cheese, paneer, ghee",vegetarian,20,30,spicy,main course,Punjab,North
+Kadhi pakoda,"capsicum, mushroom, bitter gourd",vegetarian,10,60,spicy,main course,Haryana,North
+Kaju katli,"peanut, almond, pistachio",vegetarian,10,20,sweet,dessert,-1,-1
+Kalakand,"milk, butter, cheese, paneer, ghee",vegetarian,20,30,sweet,dessert,West Bengal,East
+Kalia,"capsicum, mushroom, bitter gourd",non vegetarian,15,40,spicy,main course,West Bengal,East
+Kalia,"capsicum, mushroom, bitter gourd",non vegetarian,15,40,spicy,main course,West Bengal,East
+Kanchkolar Kofta,"tomato, banana",vegetarian,20,35,spicy,main course,West Bengal,East
+Karela Bhaja (Bengali),"capsicum, mushroom, bitter gourd",vegetarian,5,15,bitter,side dish,West Bengal,East
+Karela bharta,"capsicum, mushroom, bitter gourd",vegetarian,20,50,bitter,main course,Punjab,North
+Kheer,"milk, butter, cheese, paneer, ghee",vegetarian,10,40,sweet,dessert,-1,-1
+Khichdi,"capsicum, mushroom, bitter gourd",vegetarian,40,20,spicy,main course,-1,-1
+Kochu Shaak,"capsicum, mushroom, bitter gourd",vegetarian,10,25,spicy,main course,West Bengal,East
+Kofta,"capsicum, mushroom, bitter gourd",vegetarian,20,40,spicy,main course,Uttar Pradesh,North
+Koldil Chicken,"chicken, mutton",non vegetarian,-1,-1,spicy,main course,Assam,North East
+Koldil Duck,"capsicum, mushroom, bitter gourd",non vegetarian,-1,-1,spicy,main course,Assam,North East
+Konir Dom,"capsicum, mushroom, bitter gourd",non vegetarian,-1,-1,spicy,main course,Assam,North East
+Koraishutir Kochuri,"capsicum, mushroom, bitter gourd",vegetarian,30,30,spicy,breakfast,West Bengal,East
+Kosha Mangsho,"chicken, mutton",non vegetarian,20,90,spicy,main course,West Bengal,East
+Kosha Mangsho,"chicken, mutton",non vegetarian,20,90,spicy,main course,West Bengal,East
+Koshimbir,"capsicum, mushroom, bitter gourd",vegetarian,10,10,spicy,main course,Maharashtra,West
+Kulfi falooda,"capsicum, mushroom, bitter gourd",vegetarian,45,25,sweet,dessert,-1,-1
+Kumro Bori,"capsicum, mushroom, bitter gourd",vegetarian,10,30,spicy,main course,West Bengal,East
+Kumro Chingri,"fish, prawn",non vegetarian,10,30,spicy,main course,West Bengal,East
+Laapsi,"capsicum, mushroom, bitter gourd",vegetarian,10,40,spicy,main course,Madhya Pradesh,Central
+Labra,"capsicum, mushroom, bitter gourd",vegetarian,20,35,spicy,main course,West Bengal,East
+Laddu,"capsicum, mushroom, bitter gourd",vegetarian,10,40,sweet,dessert,-1,-1
+Lassi,"milk, butter, cheese, paneer, ghee",vegetarian,5,5,sweet,dessert,Punjab,North
+Litti chokha,"capsicum, mushroom, bitter gourd",vegetarian,45,60,spicy,main course,Bihar,North
+Luchi,"capsicum, mushroom, bitter gourd",vegetarian,20,30,-1,main course,West Bengal,East
+Lyangcha,"capsicum, mushroom, bitter gourd",vegetarian,20,30,sweet,dessert,Assam,North East
+Maach Jhol,"fish, prawn",non vegetarian,10,40,spicy,main course,Assam,North East
+Macher Jhol (Rui/Katla),"fish, prawn",non vegetarian,10,30,spicy,main course,West Bengal,East
+Macher Jhol (Rui/Katla),"fish, prawn",non vegetarian,10,30,spicy,main course,West Bengal,East
+Machher Chop,"fish, prawn",non vegetarian,20,30,spicy,snack,West Bengal,East
+Mag Dhokli,"capsicum, mushroom, bitter gourd",vegetarian,-1,-1,spicy,snack,Gujarat,West
+Malapua,"capsicum, mushroom, bitter gourd",vegetarian,10,120,sweet,dessert,Bihar,North
+Manchurian,"capsicum, mushroom, bitter gourd",vegetarian,20,25,spicy,starter,West Bengal,East
+Methi na Gota,"capsicum, mushroom, bitter gourd",vegetarian,15,30,bitter,main course,Gujarat,West
+Mihidana,"capsicum, mushroom, bitter gourd",vegetarian,15,30,sweet,dessert,West Bengal,East
+Milkshake Pack,"milk, butter, cheese, paneer, ghee",vegetarian,-1,-1,sweet,beverage,West Bengal,East
+Mishti Chholar Dal,"moong dal, chana dal",vegetarian,10,30,sweet,main course,West Bengal,East
+Misti doi,"milk, butter, cheese, paneer, ghee",vegetarian,480,30,sweet,dessert,West Bengal,East
+Moa,"peanut, almond, pistachio",vegetarian,15,20,sweet,dessert,West Bengal,East
+Moa,"peanut, almond, pistachio",vegetarian,15,20,sweet,dessert,West Bengal,East
+Mocha Ghonto,"tomato, banana",vegetarian,20,40,spicy,main course,West Bengal,East
+Mochar Ghonto,"tomato, banana",vegetarian,20,40,spicy,main course,West Bengal,East
+Momos Fried,"capsicum, mushroom, bitter gourd",vegetarian,30,20,spicy,snack,West Bengal,East
+Momos Fried,"capsicum, mushroom, bitter gourd",vegetarian,30,20,spicy,snack,West Bengal,East
+Momos Steamed,"capsicum, mushroom, bitter gourd",vegetarian,30,15,savory,snack,West Bengal,East
+Momos Steamed,"capsicum, mushroom, bitter gourd",vegetarian,30,15,savory,snack,West Bengal,East
+Moong Dal Bhaja,"moong dal, chana dal",vegetarian,10,20,spicy,side dish,West Bengal,East
+Moong Dal Bhaja,"moong dal, chana dal",vegetarian,10,20,spicy,side dish,West Bengal,East
+Muri Ghonto,"capsicum, mushroom, bitter gourd",non vegetarian,20,45,spicy,main course,West Bengal,East
+Muri Ghonto,"capsicum, mushroom, bitter gourd",non vegetarian,20,45,spicy,main course,West Bengal,East
+Mushroom do pyaza,"capsicum, mushroom, bitter gourd",vegetarian,10,30,spicy,main course,Punjab,North
+Muthiya,"capsicum, mushroom, bitter gourd",vegetarian,15,30,bitter,snack,Gujarat,West
+Naan,"capsicum, mushroom, bitter gourd",vegetarian,60,30,-1,main course,Punjab,North
+Narkel Naru,"capsicum, mushroom, bitter gourd",vegetarian,10,15,sweet,dessert,West Bengal,East
+Narkel Naru,"capsicum, mushroom, bitter gourd",vegetarian,10,15,sweet,dessert,West Bengal,East
+Nolen Gurer Payesh,"capsicum, mushroom, bitter gourd",vegetarian,10,40,sweet,dessert,West Bengal,East
+Oats Cereal,"capsicum, mushroom, bitter gourd",vegetarian,-1,-1,savory,breakfast,West Bengal,East
+Oats Cereal,"capsicum, mushroom, bitter gourd",vegetarian,-1,-1,savory,breakfast,West Bengal,East
+Omelette,egg,non vegetarian,5,10,savory,breakfast,West Bengal,East
+Omelette,egg,non vegetarian,5,10,savory,breakfast,West Bengal,East
+Packaged Cake Slice,"capsicum, mushroom, bitter gourd",vegetarian,-1,-1,sweet,dessert,West Bengal,East
+Palak paneer,"milk, butter, cheese, paneer, ghee",vegetarian,20,40,spicy,main course,Punjab,North
+Paneer tikka masala,"milk, butter, cheese, paneer, ghee",vegetarian,20,40,spicy,main course,Punjab,North
+Pani puri,"capsicum, mushroom, bitter gourd",vegetarian,15,2,spicy,snack,-1,-1
+Pantua,"capsicum, mushroom, bitter gourd",vegetarian,45,45,sweet,dessert,West Bengal,East
+Papad,"capsicum, mushroom, bitter gourd",vegetarian,5,5,spicy,snack,-1,-1
+Paratha,"capsicum, mushroom, bitter gourd",vegetarian,15,45,spicy,main course,Punjab,North
+Pasta,"capsicum, mushroom, bitter gourd",vegetarian,20,25,savory,main course,West Bengal,East
+Pasta,"capsicum, mushroom, bitter gourd",vegetarian,20,25,savory,main course,West Bengal,East
+Patishapta,"capsicum, mushroom, bitter gourd",vegetarian,20,30,sweet,dessert,West Bengal,East
+Patishapta,"capsicum, mushroom, bitter gourd",vegetarian,20,30,sweet,dessert,West Bengal,East
+Pav Bhaji,"capsicum, mushroom, bitter gourd",vegetarian,20,40,spicy,main course,Maharashtra,West
+Payokh,"capsicum, mushroom, bitter gourd",vegetarian,-1,-1,sweet,dessert,Assam,North East
+Pepe Chingri,"fish, prawn",non vegetarian,10,30,spicy,main course,West Bengal,East
+Peyaji,"capsicum, mushroom, bitter gourd",vegetarian,10,20,spicy,snack,West Bengal,East
+Pithe,"capsicum, mushroom, bitter gourd",vegetarian,15,35,sweet,dessert,Assam,North East
+Pizza,"capsicum, mushroom, bitter gourd",vegetarian,30,25,savory,main course,West Bengal,East
+Pizza,"capsicum, mushroom, bitter gourd",vegetarian,30,25,savory,main course,West Bengal,East
+Popcorn,"chicken, mutton",vegetarian,5,5,savory,snack,West Bengal,East
+Popcorn,"chicken, mutton",vegetarian,5,5,savory,snack,West Bengal,East
+Posto Bora,"tomato, banana",vegetarian,15,20,spicy,snack,West Bengal,East
+Posto Bora,"tomato, banana",vegetarian,15,20,spicy,snack,West Bengal,East
+Potato Chips,"capsicum, mushroom, bitter gourd",vegetarian,-1,-1,savory,snack,West Bengal,East
+Potato Chips,"capsicum, mushroom, bitter gourd",vegetarian,-1,-1,savory,snack,West Bengal,East
+Potol Bhaja,"capsicum, mushroom, bitter gourd",vegetarian,5,15,spicy,side dish,West Bengal,East
+Potol Bhaja,"capsicum, mushroom, bitter gourd",vegetarian,5,15,spicy,side dish,West Bengal,East
+Potoler Dolma,"capsicum, mushroom, bitter gourd",vegetarian,20,35,spicy,main course,West Bengal,East
+Potoler Dolma,"capsicum, mushroom, bitter gourd",vegetarian,20,35,spicy,main course,West Bengal,East
+Prawn malai curry,"fish, prawn",non vegetarian,15,50,spicy,main course,West Bengal,East
+Pui Shaak Chingri,"fish, prawn",non vegetarian,10,25,spicy,main course,West Bengal,East
+Pui Shaak Chingri,"fish, prawn",non vegetarian,10,25,spicy,main course,West Bengal,East
+Puli Pitha,"capsicum, mushroom, bitter gourd",vegetarian,20,30,sweet,dessert,West Bengal,East
+Puli Pitha,"capsicum, mushroom, bitter gourd",vegetarian,20,30,sweet,dessert,West Bengal,East
+Puri Bhaji,"capsicum, mushroom, bitter gourd",vegetarian,10,30,spicy,main course,Maharashtra,West
+Rabri,"milk, butter, cheese, paneer, ghee",vegetarian,10,45,sweet,dessert,Uttar Pradesh,North
+Rajma chaval,"capsicum, mushroom, bitter gourd",vegetarian,15,90,spicy,main course,-1,North
+Ras malai,"milk, butter, cheese, paneer, ghee",vegetarian,180,60,sweet,dessert,West Bengal,East
+Rasgulla,"milk, butter, cheese, paneer, ghee",vegetarian,10,90,sweet,dessert,West Bengal,East
+Red Rice,"capsicum, mushroom, bitter gourd",vegetarian,-1,-1,-1,main course,-1,-1
+Roasted Chana,"capsicum, mushroom, bitter gourd",vegetarian,-1,-1,savory,snack,West Bengal,East
+Rongi,"capsicum, mushroom, bitter gourd",vegetarian,10,30,-1,main course,Punjab,North
+Sabudana Khichadi,"peanut, almond, pistachio",vegetarian,70,30,spicy,snack,Maharashtra,West
+Sambar,"capsicum, mushroom, bitter gourd",vegetarian,20,45,spicy,main course,-1,South
+Samosa,"capsicum, mushroom, bitter gourd",vegetarian,30,30,spicy,snack,-1,-1
+Sandesh,"milk, butter, cheese, paneer, ghee",vegetarian,30,20,sweet,dessert,West Bengal,East
+Sandwich,"capsicum, mushroom, bitter gourd",vegetarian,10,10,savory,snack,West Bengal,East
+Sandwich,"capsicum, mushroom, bitter gourd",vegetarian,10,10,savory,snack,West Bengal,East
+Sattu ki roti,"capsicum, mushroom, bitter gourd",vegetarian,10,20,spicy,main course,Bihar,North
+Sausage,"chicken, mutton",non vegetarian,30,20,savory,starter,West Bengal,East
+Sausage,"chicken, mutton",non vegetarian,30,20,savory,starter,West Bengal,East
+Sausage Roll,"chicken, mutton",non vegetarian,15,25,savory,snack,West Bengal,East
+Schezwan Fried Rice,"capsicum, mushroom, bitter gourd",vegetarian,10,20,spicy,main course,West Bengal,East
+Shahi paneer,"milk, butter, cheese, paneer, ghee",vegetarian,20,40,spicy,main course,Punjab,North
+Shahi tukra,"capsicum, mushroom, bitter gourd",vegetarian,10,30,sweet,dessert,Telangana,South
+Shorshe Begun,"mustard, coriander",vegetarian,10,25,spicy,main course,West Bengal,East
+Shorshe Ilish,"fish, prawn",non vegetarian,15,40,spicy,main course,West Bengal,East
+Shorshe Ilish,"fish, prawn",non vegetarian,15,40,spicy,main course,West Bengal,East
+Shukto,"capsicum, mushroom, bitter gourd",vegetarian,10,20,spicy,main course,West Bengal,East
+Soft Drink,"capsicum, mushroom, bitter gourd",vegetarian,-1,-1,sweet,beverage,West Bengal,East
+Soft Drink,"capsicum, mushroom, bitter gourd",vegetarian,-1,-1,sweet,beverage,West Bengal,East
+Spring Roll,"chicken, mutton",vegetarian,20,25,spicy,snack,West Bengal,East
+Sweet Corn Soup,"capsicum, mushroom, bitter gourd",vegetarian,10,20,savory,starter,West Bengal,East
+Swiss Roll,"chicken, mutton",vegetarian,-1,-1,sweet,snack,West Bengal,East
+Swiss Roll,"chicken, mutton",vegetarian,-1,-1,sweet,snack,West Bengal,East
+Tandoori Chicken,"chicken, mutton",non vegetarian,240,30,spicy,main course,Punjab,North
+Tandoori Fish Tikka,"fish, prawn",non vegetarian,240,30,spicy,starter,Punjab,North
+Tea Biscuit,"capsicum, mushroom, bitter gourd",vegetarian,-1,-1,sweet,snack,West Bengal,East
+Tea Biscuit,"capsicum, mushroom, bitter gourd",vegetarian,-1,-1,sweet,snack,West Bengal,East
+Tele Bhaja,"capsicum, mushroom, bitter gourd",vegetarian,15,25,spicy,snack,West Bengal,East
+Thepla,"capsicum, mushroom, bitter gourd",vegetarian,15,30,spicy,snack,Gujarat,West
+Til Pitha,"capsicum, mushroom, bitter gourd",vegetarian,5,30,sweet,dessert,Assam,North East
+Toffee,"capsicum, mushroom, bitter gourd",vegetarian,-1,-1,sweet,snack,West Bengal,East
+Upma,"moong dal, chana dal",vegetarian,10,20,spicy,snack,West Bengal,East
+Vegetable jalfrezi,"capsicum, mushroom, bitter gourd",vegetarian,10,30,spicy,main course,Punjab,North
